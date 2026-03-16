@@ -1,0 +1,2281 @@
+Year,Month,State,Crop,Wholesale_Price[Rs. Per Quintal],Temperature (Celsis),Rainfall in mm
+2022,1,Andhra Pradesh,Rice,3625,0.5,21.7
+2022,2,Andhra Pradesh,Rice,3700,-0.2,0.9
+2022,3,Andhra Pradesh,Rice,3700,0,109.7
+2022,4,Andhra Pradesh,Rice,3600,0.2,6.7
+2022,5,Andhra Pradesh,Rice,3250,-1.3,53.5
+2022,6,Andhra Pradesh,Rice,3200,-0.7,105.7
+2022,7,Andhra Pradesh,Rice,3200,-0.7,157
+2022,8,Andhra Pradesh,Rice,3200,-0.1,159.7
+2022,9,Andhra Pradesh,Rice,3200,-0.1,153.3
+2022,10,Andhra Pradesh,Rice,3225,-0.2,133.9
+2022,11,Andhra Pradesh,Rice,3200,0.2,61.5
+2022,12,Andhra Pradesh,Rice,3200,1.4,82
+2022,1,Andhra Pradesh,Jowar,2800,0.5,21.7
+2022,2,Andhra Pradesh,Jowar,2563,-0.2,0.9
+2022,3,Andhra Pradesh,Jowar,2300,0,109.7
+2022,4,Andhra Pradesh,Jowar,2270,0.2,6.7
+2022,5,Andhra Pradesh,Jowar,2388,-1.3,53.5
+2022,6,Andhra Pradesh,Jowar,2763,-0.7,105.7
+2022,7,Andhra Pradesh,Jowar,2880,-0.7,157
+2022,8,Andhra Pradesh,Jowar,3200,-0.1,159.7
+2022,9,Andhra Pradesh,Jowar,3480,-0.1,153.3
+2022,10,Andhra Pradesh,Jowar,3725,-0.2,133.9
+2022,11,Andhra Pradesh,Jowar,3825,0.2,61.5
+2022,12,Andhra Pradesh,Jowar,3880,1.4,82
+2022,1,Andhra Pradesh,Bajra,2400,0.5,21.7
+2022,2,Andhra Pradesh,Bajra,2475,-0.2,0.9
+2022,3,Andhra Pradesh,Bajra,2613,0,109.7
+2022,4,Andhra Pradesh,Bajra,2868,0.2,6.7
+2022,5,Andhra Pradesh,Bajra,3163,-1.3,53.5
+2022,6,Andhra Pradesh,Bajra,3125,-0.7,105.7
+2022,7,Andhra Pradesh,Bajra,3110,-0.7,157
+2022,8,Andhra Pradesh,Bajra,2938,-0.1,159.7
+2022,9,Andhra Pradesh,Bajra,2900,-0.1,153.3
+2022,10,Andhra Pradesh,Bajra,2800,-0.2,133.9
+2022,11,Andhra Pradesh,Bajra,2800,0.2,61.5
+2022,12,Andhra Pradesh,Bajra,2880,1.4,82
+2022,1,Andhra Pradesh,Maize,2288,0.5,21.7
+2022,2,Andhra Pradesh,Maize,2488,-0.2,0.9
+2022,3,Andhra Pradesh,Maize,2300,0,109.7
+2022,4,Andhra Pradesh,Maize,2380,0.2,6.7
+2022,5,Andhra Pradesh,Maize,2413,-1.3,53.5
+2022,6,Andhra Pradesh,Maize,2200,-0.7,105.7
+2022,7,Andhra Pradesh,Maize,2160,-0.7,157
+2022,8,Andhra Pradesh,Maize,2400,-0.1,159.7
+2022,9,Andhra Pradesh,Maize,2340,-0.1,153.3
+2022,10,Andhra Pradesh,Maize,2325,-0.2,133.9
+2022,11,Andhra Pradesh,Maize,2300,0.2,61.5
+2022,12,Andhra Pradesh,Maize,2360,1.4,82
+2022,1,Andhra Pradesh,Wheat,3425,0.5,21.7
+2022,2,Andhra Pradesh,Wheat,3350,-0.2,0.9
+2022,3,Andhra Pradesh,Wheat,3500,0,109.7
+2022,4,Andhra Pradesh,Wheat,3560,0.2,6.7
+2022,5,Andhra Pradesh,Wheat,3600,-1.3,53.5
+2022,6,Andhra Pradesh,Wheat,2963,-0.7,105.7
+2022,7,Andhra Pradesh,Wheat,2840,-0.7,157
+2022,8,Andhra Pradesh,Wheat,3250,-0.1,159.7
+2022,9,Andhra Pradesh,Wheat,3120,-0.1,153.3
+2022,10,Andhra Pradesh,Wheat,3000,-0.2,133.9
+2022,11,Andhra Pradesh,Wheat,3050,0.2,61.5
+2022,12,Andhra Pradesh,Wheat,3040,1.4,82
+2022,1,Andhra Pradesh,Arhar(Tur Dal),6488,0.5,21.7
+2022,2,Andhra Pradesh,Arhar(Tur Dal),6638,-0.2,0.9
+2022,3,Andhra Pradesh,Arhar(Tur Dal),6600,0,109.7
+2022,4,Andhra Pradesh,Arhar(Tur Dal),6960,0.2,6.7
+2022,5,Andhra Pradesh,Arhar(Tur Dal),7100,-1.3,53.5
+2022,6,Andhra Pradesh,Arhar(Tur Dal),7063,-0.7,105.7
+2022,7,Andhra Pradesh,Arhar(Tur Dal),6880,-0.7,157
+2022,8,Andhra Pradesh,Arhar(Tur Dal),7100,-0.1,159.7
+2022,9,Andhra Pradesh,Arhar(Tur Dal),7090,-0.1,153.3
+2022,10,Andhra Pradesh,Arhar(Tur Dal),6650,-0.2,133.9
+2022,11,Andhra Pradesh,Arhar(Tur Dal),6725,0.2,61.5
+2022,12,Andhra Pradesh,Arhar(Tur Dal),6280,1.4,82
+2022,1,Andhra Pradesh,Onion,3075,0.5,21.7
+2022,2,Andhra Pradesh,Onion,2800,-0.2,0.9
+2022,3,Andhra Pradesh,Onion,2300,0,109.7
+2022,4,Andhra Pradesh,Onion,1910,0.2,6.7
+2022,5,Andhra Pradesh,Onion,1975,-1.3,53.5
+2022,6,Andhra Pradesh,Onion,1713,-0.7,105.7
+2022,7,Andhra Pradesh,Onion,1770,-0.7,157
+2022,8,Andhra Pradesh,Onion,2113,-0.1,159.7
+2022,9,Andhra Pradesh,Onion,2120,-0.1,153.3
+2022,10,Andhra Pradesh,Onion,2200,-0.2,133.9
+2022,11,Andhra Pradesh,Onion,2175,0.2,61.5
+2022,12,Andhra Pradesh,Onion,2230,1.4,82
+2022,1,Andhra Pradesh,Cotton,8696,0.5,21.7
+2022,2,Andhra Pradesh,Cotton,9143,-0.2,0.9
+2022,3,Andhra Pradesh,Cotton,8774,0,109.7
+2022,4,Andhra Pradesh,Cotton,9960,0.2,6.7
+2022,5,Andhra Pradesh,Cotton,11754,-1.3,53.5
+2022,6,Andhra Pradesh,Cotton,10603,-0.7,105.7
+2022,7,Andhra Pradesh,Cotton,9962,-0.7,157
+2022,8,Andhra Pradesh,Cotton,10352,-0.1,159.7
+2022,9,Andhra Pradesh,Cotton,9367,-0.1,153.3
+2022,10,Andhra Pradesh,Cotton,8286,-0.2,133.9
+2022,11,Andhra Pradesh,Cotton,8283,0.2,61.5
+2022,12,Andhra Pradesh,Cotton,8071,1.4,82
+2022,1,Andhra Pradesh,Tomato,3150,0.5,21.7
+2022,2,Andhra Pradesh,Tomato,1625,-0.2,0.9
+2022,3,Andhra Pradesh,Tomato,788,0,109.7
+2022,4,Andhra Pradesh,Tomato,1042,0.2,6.7
+2022,5,Andhra Pradesh,Tomato,3050,-1.3,53.5
+2022,6,Andhra Pradesh,Tomato,4750,-0.7,105.7
+2022,7,Andhra Pradesh,Tomato,1830,-0.7,157
+2022,8,Andhra Pradesh,Tomato,1263,-0.1,159.7
+2022,9,Andhra Pradesh,Tomato,2170,-0.1,153.3
+2022,10,Andhra Pradesh,Tomato,2875,-0.2,133.9
+2022,11,Andhra Pradesh,Tomato,1640,0.2,61.5
+2022,12,Andhra Pradesh,Tomato,1120,1.4,82
+2022,1,Andhra Pradesh,Groundnut,5363,0.5,21.7
+2022,2,Andhra Pradesh,Groundnut,5511,-0.2,0.9
+2022,3,Andhra Pradesh,Groundnut,5369,0,109.7
+2022,4,Andhra Pradesh,Groundnut,5537,0.2,6.7
+2022,5,Andhra Pradesh,Groundnut,6600,-1.3,53.5
+2022,6,Andhra Pradesh,Groundnut,5530,-0.7,105.7
+2022,7,Andhra Pradesh,Groundnut,5404,-0.7,157
+2022,8,Andhra Pradesh,Groundnut,6428,-0.1,159.7
+2022,9,Andhra Pradesh,Groundnut,7036,-0.1,153.3
+2022,10,Andhra Pradesh,Groundnut,5564,-0.2,133.9
+2022,11,Andhra Pradesh,Groundnut,5470,0.2,61.5
+2022,12,Andhra Pradesh,Groundnut,6091,1.4,82
+2022,1,Andhra Pradesh,Ragi,3377,0.5,21.7
+2022,2,Andhra Pradesh,Ragi,3377,-0.2,0.9
+2022,3,Andhra Pradesh,Ragi,3377,0,109.7
+2022,4,Andhra Pradesh,Ragi,3312,0.2,6.7
+2022,5,Andhra Pradesh,Ragi,3050,-1.3,53.5
+2022,6,Andhra Pradesh,Ragi,3200,-0.7,105.7
+2022,7,Andhra Pradesh,Ragi,3300,-0.7,157
+2022,8,Andhra Pradesh,Ragi,3200,-0.1,159.7
+2022,9,Andhra Pradesh,Ragi,3260,-0.1,153.3
+2022,10,Andhra Pradesh,Ragi,3300,-0.2,133.9
+2022,11,Andhra Pradesh,Ragi,3325,0.2,61.5
+2022,12,Andhra Pradesh,Ragi,3380,1.4,82
+2022,1,Andhra Pradesh,Turmeric,6888,0.5,21.7
+2022,2,Andhra Pradesh,Turmeric,6953,-0.2,0.9
+2022,3,Andhra Pradesh,Turmeric,6167,0,109.7
+2022,4,Andhra Pradesh,Turmeric,5915,0.2,6.7
+2022,5,Andhra Pradesh,Turmeric,6212,-1.3,53.5
+2022,6,Andhra Pradesh,Turmeric,6274,-0.7,105.7
+2022,7,Andhra Pradesh,Turmeric,5627,-0.7,157
+2022,8,Andhra Pradesh,Turmeric,4932,-0.1,159.7
+2022,9,Andhra Pradesh,Turmeric,4959,-0.1,153.3
+2022,10,Andhra Pradesh,Turmeric,5392,-0.2,133.9
+2022,11,Andhra Pradesh,Turmeric,5594,0.2,61.5
+2022,12,Andhra Pradesh,Turmeric,5997,1.4,82
+2022,1,Assam,Rice,2500,0.7,23.5
+2022,2,Assam,Rice,2300,-0.8,52.3
+2022,3,Assam,Rice,2350,2.3,7.5
+2022,4,Assam,Rice,2350,0.2,318.1
+2022,5,Assam,Rice,2450,0.4,398.5
+2022,6,Assam,Rice,2450,0.2,673.7
+2022,7,Assam,Rice,2450,1,273.9
+2022,8,Assam,Rice,2450,1.5,207
+2022,9,Assam,Rice,2730,1.3,185.9
+2022,10,Assam,Rice,2800,0.9,193.2
+2022,11,Assam,Rice,2800,1,0.1
+2022,12,Assam,Rice,2800,0.8,5.3
+2022,1,Assam,Maize,1700,0.7,23.5
+2022,2,Assam,Maize,1850,-0.8,52.3
+2022,3,Assam,Maize,2200,2.3,7.5
+2022,4,Assam,Maize,2180,0.2,318.1
+2022,5,Assam,Maize,2150,0.4,398.5
+2022,6,Assam,Maize,2150,0.2,673.7
+2022,7,Assam,Maize,2150,1,273.9
+2022,8,Assam,Maize,2150,1.5,207
+2022,9,Assam,Maize,2150,1.3,185.9
+2022,10,Assam,Maize,2150,0.9,193.2
+2022,11,Assam,Maize,2150,1,0.1
+2022,12,Assam,Maize,2220,0.8,5.3
+2022,1,Assam,Potato,1175,0.7,23.5
+2022,2,Assam,Potato,1250,-0.8,52.3
+2022,3,Assam,Potato,1438,2.3,7.5
+2022,4,Assam,Potato,1605,0.2,318.1
+2022,5,Assam,Potato,1988,0.4,398.5
+2022,6,Assam,Potato,2256,0.2,673.7
+2022,7,Assam,Potato,2305,1,273.9
+2022,8,Assam,Potato,2275,1.5,207
+2022,9,Assam,Potato,2270,1.3,185.9
+2022,10,Assam,Potato,2450,0.9,193.2
+2022,11,Assam,Potato,2375,1,0.1
+2022,12,Assam,Potato,1920,0.8,5.3
+2022,1,Assam,Onion,3200,0.7,23.5
+2022,2,Assam,Onion,3063,-0.8,52.3
+2022,3,Assam,Onion,2150,2.3,7.5
+2022,4,Assam,Onion,1410,0.2,318.1
+2022,5,Assam,Onion,1688,0.4,398.5
+2022,6,Assam,Onion,1988,0.2,673.7
+2022,7,Assam,Onion,2315,1,273.9
+2022,8,Assam,Onion,2275,1.5,207
+2022,9,Assam,Onion,2340,1.3,185.9
+2022,10,Assam,Onion,2800,0.9,193.2
+2022,11,Assam,Onion,2800,1,0.1
+2022,12,Assam,Onion,1920,0.8,5.3
+2022,1,Bihar,Rice,4300,1.8,11.2
+2022,2,Bihar,Rice,4350,-1.1,28.8
+2022,3,Bihar,Rice,4400,1.2,0.1
+2022,4,Bihar,Rice,4456,1.6,10.8
+2022,5,Bihar,Rice,4480,-0.6,78
+2022,6,Bihar,Rice,4480,0.9,172.6
+2022,7,Bihar,Rice,4636,1,134.7
+2022,8,Bihar,Rice,4830,0.6,170.1
+2022,9,Bihar,Rice,4824,0.5,206.2
+2022,10,Bihar,Rice,4800,0.7,81.8
+2022,11,Bihar,Rice,4830,-0.1,0
+2022,12,Bihar,Rice,4800,0.3,0.1
+2022,1,Bihar,Maize,1630,1.8,11.2
+2022,2,Bihar,Maize,1680,-1.1,28.8
+2022,3,Bihar,Maize,1650,1.2,0.1
+2022,4,Bihar,Maize,1684,1.6,10.8
+2022,5,Bihar,Maize,1760,-0.6,78
+2022,6,Bihar,Maize,1880,0.9,172.6
+2022,7,Bihar,Maize,1934,1,134.7
+2022,8,Bihar,Maize,2018,0.6,170.1
+2022,9,Bihar,Maize,2052,0.5,206.2
+2022,10,Bihar,Maize,2055,0.7,81.8
+2022,11,Bihar,Maize,2075,-0.1,0
+2022,12,Bihar,Maize,2142,0.3,0.1
+2022,1,Bihar,Wheat,2490,1.8,11.2
+2022,2,Bihar,Wheat,2450,-1.1,28.8
+2022,3,Bihar,Wheat,2450,1.2,0.1
+2022,4,Bihar,Wheat,2516,1.6,10.8
+2022,5,Bihar,Wheat,2523,-0.6,78
+2022,6,Bihar,Wheat,2575,0.9,172.6
+2022,7,Bihar,Wheat,2632,1,134.7
+2022,8,Bihar,Wheat,2728,0.6,170.1
+2022,9,Bihar,Wheat,2774,0.5,206.2
+2022,10,Bihar,Wheat,2800,0.7,81.8
+2022,11,Bihar,Wheat,2908,-0.1,0
+2022,12,Bihar,Wheat,2980,0.3,0.1
+2022,1,Bihar,Barley,2758,1.8,11.2
+2022,2,Bihar,Barley,2750,-1.1,28.8
+2022,3,Bihar,Barley,2765,1.2,0.1
+2022,4,Bihar,Barley,2796,1.6,10.8
+2022,5,Bihar,Barley,2828,-0.6,78
+2022,6,Bihar,Barley,2843,0.9,172.6
+2022,7,Bihar,Barley,2832,1,134.7
+2022,8,Bihar,Barley,2900,0.6,170.1
+2022,9,Bihar,Barley,2884,0.5,206.2
+2022,10,Bihar,Barley,2863,0.7,81.8
+2022,11,Bihar,Barley,2848,-0.1,0
+2022,12,Bihar,Barley,2794,0.3,0.1
+2022,1,Bihar,Potato,1065,1.8,11.2
+2022,2,Bihar,Potato,960,-1.1,28.8
+2022,3,Bihar,Potato,1043,1.2,0.1
+2022,4,Bihar,Potato,1130,1.6,10.8
+2022,5,Bihar,Potato,1160,-0.6,78
+2022,6,Bihar,Potato,1273,0.9,172.6
+2022,7,Bihar,Potato,1504,1,134.7
+2022,8,Bihar,Potato,1670,0.6,170.1
+2022,9,Bihar,Potato,1700,0.5,206.2
+2022,10,Bihar,Potato,1768,0.7,81.8
+2022,11,Bihar,Potato,1700,-0.1,0
+2022,12,Bihar,Potato,1392,0.3,0.1
+2022,1,Bihar,Onion,2780,1.8,11.2
+2022,2,Bihar,Onion,2970,-1.1,28.8
+2022,3,Bihar,Onion,2813,1.2,0.1
+2022,4,Bihar,Onion,1638,1.6,10.8
+2022,5,Bihar,Onion,1308,-0.6,78
+2022,6,Bihar,Onion,1243,0.9,172.6
+2022,7,Bihar,Onion,1612,1,134.7
+2022,8,Bihar,Onion,1720,0.6,170.1
+2022,9,Bihar,Onion,1750,0.5,206.2
+2022,10,Bihar,Onion,1828,0.7,81.8
+2022,11,Bihar,Onion,2183,-0.1,0
+2022,12,Bihar,Onion,1646,0.3,0.1
+2022,1,Bihar,Chillies,9723,1.8,11.2
+2022,2,Bihar,Chillies,9658,-1.1,28.8
+2022,3,Bihar,Chillies,9778,1.2,0.1
+2022,4,Bihar,Chillies,10000,1.6,10.8
+2022,5,Bihar,Chillies,10400,-0.6,78
+2022,6,Bihar,Chillies,10750,0.9,172.6
+2022,7,Bihar,Chillies,11330,1,134.7
+2022,8,Bihar,Chillies,11765,0.6,170.1
+2022,9,Bihar,Chillies,11848,0.5,206.2
+2022,10,Bihar,Chillies,11973,0.7,81.8
+2022,11,Bihar,Chillies,11800,-0.1,0
+2022,12,Bihar,Chillies,11580,0.3,0.1
+2022,1,Bihar,Tomato,1633,1.8,11.2
+2022,2,Bihar,Tomato,1070,-1.1,28.8
+2022,3,Bihar,Tomato,930,1.2,0.1
+2022,4,Bihar,Tomato,1288,1.6,10.8
+2022,5,Bihar,Tomato,2418,-0.6,78
+2022,6,Bihar,Tomato,3763,0.9,172.6
+2022,7,Bihar,Tomato,3550,1,134.7
+2022,8,Bihar,Tomato,3473,0.6,170.1
+2022,9,Bihar,Tomato,4060,0.5,206.2
+2022,10,Bihar,Tomato,4615,0.7,81.8
+2022,11,Bihar,Tomato,2573,-0.1,0
+2022,12,Bihar,Tomato,1232,0.3,0.1
+2022,1,Gujarat,Rice,3525,0.2,1.8
+2022,2,Gujarat,Rice,3591,0.8,0
+2022,3,Gujarat,Rice,3531,2.1,0
+2022,4,Gujarat,Rice,3510,1.8,0
+2022,5,Gujarat,Rice,3444,1,0
+2022,6,Gujarat,Rice,3306,0.5,51.5
+2022,7,Gujarat,Rice,3510,-0.3,484.4
+2022,8,Gujarat,Rice,3556,0,234.8
+2022,9,Gujarat,Rice,3670,0.3,135.3
+2022,10,Gujarat,Rice,3575,0.3,20.1
+2022,11,Gujarat,Rice,3638,0.7,0
+2022,12,Gujarat,Rice,3625,1.9,0.1
+2022,1,Gujarat,Jower,2225,-0.2,1.8
+2022,2,Gujarat,Jower,2538,2,0
+2022,3,Gujarat,Jower,2626,1.5,0
+2022,4,Gujarat,Jower,2516,0.3,0
+2022,5,Gujarat,Jower,2494,0.1,0
+2022,6,Gujarat,Jower,2575,-0.3,51.5
+2022,7,Gujarat,Jower,2975,0.2,484.4
+2022,8,Gujarat,Jower,3125,0.5,234.8
+2022,9,Gujarat,Jower,3185,1,135.3
+2022,10,Gujarat,Jower,3301,1.4,20.1
+2022,11,Gujarat,Jower,3463,1.3,0
+2022,12,Gujarat,Jower,3740,1.1,0.1
+2022,1,Gujarat,Barje,1825,-0.2,1.8
+2022,2,Gujarat,Barje,1819,2,0
+2022,3,Gujarat,Barje,1750,1.5,0
+2022,4,Gujarat,Barje,1761,0.3,0
+2022,5,Gujarat,Barje,2006,0.1,0
+2022,6,Gujarat,Barje,1950,-0.3,51.5
+2022,7,Gujarat,Barje,1825,0.2,484.4
+2022,8,Gujarat,Barje,1963,0.5,234.8
+2022,9,Gujarat,Barje,1975,1,135.3
+2022,10,Gujarat,Barje,1713,1.4,20.1
+2022,11,Gujarat,Barje,1651,1.3,0
+2022,12,Gujarat,Barje,1803,1.1,0.1
+2022,1,Gujarat,Maize,1873,-0.2,1.8
+2022,2,Gujarat,Maize,1901,2,0
+2022,3,Gujarat,Maize,2103,1.5,0
+2022,4,Gujarat,Maize,2229,0.3,0
+2022,5,Gujarat,Maize,2206,0.1,0
+2022,6,Gujarat,Maize,2206,-0.3,51.5
+2022,7,Gujarat,Maize,2269,0.2,484.4
+2022,8,Gujarat,Maize,2388,0.5,234.8
+2022,9,Gujarat,Maize,2336,1,135.3
+2022,10,Gujarat,Maize,2373,1.4,20.1
+2022,11,Gujarat,Maize,2243,1.3,0
+2022,12,Gujarat,Maize,2313,1.1,0.1
+2022,1,Gujarat,Wheat,2025,-0.2,1.8
+2022,2,Gujarat,Wheat,2013,2,0
+2022,3,Gujarat,Wheat,2176,1.5,0
+2022,4,Gujarat,Wheat,2570,0.3,0
+2022,5,Gujarat,Wheat,2363,0.1,0
+2022,6,Gujarat,Wheat,2281,-0.3,51.5
+2022,7,Gujarat,Wheat,2206,0.2,484.4
+2022,8,Gujarat,Wheat,2231,0.5,234.8
+2022,9,Gujarat,Wheat,2303,1,135.3
+2022,10,Gujarat,Wheat,2343,1.4,20.1
+2022,11,Gujarat,Wheat,2663,1.3,0
+2022,12,Gujarat,Wheat,2684,1.1,0.1
+2022,1,Gujarat,Arhar(Tur Dal),7300,-0.2,1.8
+2022,2,Gujarat,Arhar(Tur Dal),7438,2,0
+2022,3,Gujarat,Arhar(Tur Dal),7200,1.5,0
+2022,4,Gujarat,Arhar(Tur Dal),7340,0.3,0
+2022,5,Gujarat,Arhar(Tur Dal),7125,0.1,0
+2022,6,Gujarat,Arhar(Tur Dal),7138,-0.3,51.5
+2022,7,Gujarat,Arhar(Tur Dal),7700,0.2,484.4
+2022,8,Gujarat,Arhar(Tur Dal),8425,0.5,234.8
+2022,9,Gujarat,Arhar(Tur Dal),8130,1,135.3
+2022,10,Gujarat,Arhar(Tur Dal),8288,1.4,20.1
+2022,11,Gujarat,Arhar(Tur Dal),8463,1.3,0
+2022,12,Gujarat,Arhar(Tur Dal),8330,1.1,0.1
+2022,1,Gujarat,Cotton,9225,-0.2,1.8
+2022,2,Gujarat,Cotton,9700,2,0
+2022,3,Gujarat,Cotton,9400,1.5,0
+2022,4,Gujarat,Cotton,10220,0.3,0
+2022,5,Gujarat,Cotton,10825,0.1,0
+2022,6,Gujarat,Cotton,10025,-0.3,51.5
+2022,7,Gujarat,Cotton,9180,0.2,484.4
+2022,8,Gujarat,Cotton,9500,0.5,234.8
+2022,9,Gujarat,Cotton,8200,1,135.3
+2022,10,Gujarat,Cotton,8438,1.4,20.1
+2022,11,Gujarat,Cotton,8925,1.3,0
+2022,12,Gujarat,Cotton,8600,1.1,0.1
+2022,1,Gujarat,Tomato,1500,-0.2,1.8
+2022,2,Gujarat,Tomato,1888,2,0
+2022,3,Gujarat,Tomato,1431,1.5,0
+2022,4,Gujarat,Tomato,1485,0.3,0
+2022,5,Gujarat,Tomato,2625,0.1,0
+2022,6,Gujarat,Tomato,4300,-0.3,51.5
+2022,7,Gujarat,Tomato,2540,0.2,484.4
+2022,8,Gujarat,Tomato,2275,0.5,234.8
+2022,9,Gujarat,Tomato,2500,1,135.3
+2022,10,Gujarat,Tomato,3650,1.4,20.1
+2022,11,Gujarat,Tomato,1816,1.3,0
+2022,12,Gujarat,Tomato,1045,1.1,0.1
+2022,1,Gujarat,Soyabean,6300,-0.2,1.8
+2022,2,Gujarat,Soyabean,6531,2,0
+2022,3,Gujarat,Soyabean,7475,1.5,0
+2022,4,Gujarat,Soyabean,7490,0.3,0
+2022,5,Gujarat,Soyabean,6975,0.1,0
+2022,6,Gujarat,Soyabean,6438,-0.3,51.5
+2022,7,Gujarat,Soyabean,6070,0.2,484.4
+2022,8,Gujarat,Soyabean,6125,0.5,234.8
+2022,9,Gujarat,Soyabean,5450,1,135.3
+2022,10,Gujarat,Soyabean,4938,1.4,20.1
+2022,11,Gujarat,Soyabean,5525,1.3,0
+2022,12,Gujarat,Soyabean,5510,1.1,0.1
+2022,1,Gujarat,Groundnut,5305,-0.2,1.8
+2022,2,Gujarat,Groundnut,5455,2,0
+2022,3,Gujarat,Groundnut,5841,1.5,0
+2022,4,Gujarat,Groundnut,6024,0.3,0
+2022,5,Gujarat,Groundnut,6205,0.1,0
+2022,6,Gujarat,Groundnut,6235,-0.3,51.5
+2022,7,Gujarat,Groundnut,6395,0.2,484.4
+2022,8,Gujarat,Groundnut,6366,0.5,234.8
+2022,9,Gujarat,Groundnut,6044,1,135.3
+2022,10,Gujarat,Groundnut,6034,1.4,20.1
+2022,11,Gujarat,Groundnut,5774,1.3,0
+2022,12,Gujarat,Groundnut,5855,1.1,0.1
+2022,1,Haryana,Rice,3100,0.2,68
+2022,2,Haryana,Rice,3025,-0.3,15.3
+2022,3,Haryana,Rice,2946,2.1,0.2
+2022,4,Haryana,Rice,2996,2.4,0.5
+2022,5,Haryana,Rice,3100,0.5,34.5
+2022,6,Haryana,Rice,3162,0.4,36
+2022,7,Haryana,Rice,2955,-0.3,220.4
+2022,8,Haryana,Rice,2956,0.3,70
+2022,9,Haryana,Rice,2875,-0.2,138.3
+2022,10,Haryana,Rice,2895,-0.1,35.9
+2022,11,Haryana,Rice,2839,0,0.3
+2022,12,Haryana,Rice,2704,1.5,0
+2022,1,Haryana,Bajra,1705,0.2,68
+2022,2,Haryana,Bajra,1815,-0.3,15.3
+2022,3,Haryana,Bajra,1998,2.1,0.2
+2022,4,Haryana,Bajra,2056,2.4,0.5
+2022,5,Haryana,Bajra,2098,0.5,34.5
+2022,6,Haryana,Bajra,2125,0.4,36
+2022,7,Haryana,Bajra,2024,-0.3,220.4
+2022,8,Haryana,Bajra,2008,0.3,70
+2022,9,Haryana,Bajra,1860,-0.2,138.3
+2022,10,Haryana,Bajra,1775,-0.1,35.9
+2022,11,Haryana,Bajra,1935,0,0.3
+2022,12,Haryana,Bajra,2028,1.5,0
+2022,1,Haryana,Wheat,2038,0.2,68
+2022,2,Haryana,Wheat,2055,-0.3,15.3
+2022,3,Haryana,Wheat,2130,2.1,0.2
+2022,4,Haryana,Wheat,2056,2.4,0.5
+2022,5,Haryana,Wheat,2058,0.5,34.5
+2022,6,Haryana,Wheat,1983,0.4,36
+2022,7,Haryana,Wheat,2043,-0.3,220.4
+2022,8,Haryana,Wheat,2225,0.3,70
+2022,9,Haryana,Wheat,2210,-0.2,138.3
+2022,10,Haryana,Wheat,2335,-0.1,35.9
+2022,11,Haryana,Wheat,2513,0,0.3
+2022,12,Haryana,Wheat,2588,1.5,0
+2022,1,Haryana,Barley,2275,0.2,68
+2022,2,Haryana,Barley,2345,-0.3,15.3
+2022,3,Haryana,Barley,2083,2.1,0.2
+2022,4,Haryana,Barley,2788,2.4,0.5
+2022,5,Haryana,Barley,2793,0.5,34.5
+2022,6,Haryana,Barley,2628,0.4,36
+2022,7,Haryana,Barley,2502,-0.3,220.4
+2022,8,Haryana,Barley,2445,0.3,70
+2022,9,Haryana,Barley,2506,-0.2,138.3
+2022,10,Haryana,Barley,2668,-0.1,35.9
+2022,11,Haryana,Barley,2953,0,0.3
+2022,12,Haryana,Barley,2946,1.5,0
+2022,1,Haryana,Potato,1038,0.2,68
+2022,2,Haryana,Potato,975,-0.3,15.3
+2022,3,Haryana,Potato,1050,2.1,0.2
+2022,4,Haryana,Potato,1050,2.4,0.5
+2022,5,Haryana,Potato,1375,0.5,34.5
+2022,6,Haryana,Potato,1588,0.4,36
+2022,7,Haryana,Potato,1710,-0.3,220.4
+2022,8,Haryana,Potato,1825,0.3,70
+2022,9,Haryana,Potato,1820,-0.2,138.3
+2022,10,Haryana,Potato,1900,-0.1,35.9
+2022,11,Haryana,Potato,1950,0,0.3
+2022,12,Haryana,Potato,1390,1.5,0
+2022,1,Haryana,Onion,2166,0.2,68
+2022,2,Haryana,Onion,2333,-0.3,15.3
+2022,3,Haryana,Onion,1644,2.1,0.2
+2022,4,Haryana,Onion,1000,2.4,0.5
+2022,5,Haryana,Onion,945,0.5,34.5
+2022,6,Haryana,Onion,963,0.4,36
+2022,7,Haryana,Onion,1320,-0.3,220.4
+2022,8,Haryana,Onion,1401,0.3,70
+2022,9,Haryana,Onion,1268,-0.2,138.3
+2022,10,Haryana,Onion,1527,-0.1,35.9
+2022,11,Haryana,Onion,1606,0,0.3
+2022,12,Haryana,Onion,1586,1.5,0
+2022,1,Haryana,Cotton,9518,0.2,68
+2022,2,Haryana,Cotton,9795,-0.3,15.3
+2022,3,Haryana,Cotton,9728,2.1,0.2
+2022,4,Haryana,Cotton,11480,2.4,0.5
+2022,5,Haryana,Cotton,12748,0.5,34.5
+2022,6,Haryana,Cotton,11895,0.4,36
+2022,7,Haryana,Cotton,9590,-0.3,220.4
+2022,8,Haryana,Cotton,9853,0.3,70
+2022,9,Haryana,Cotton,9460,-0.2,138.3
+2022,10,Haryana,Cotton,8740,-0.1,35.9
+2022,11,Haryana,Cotton,8648,0,0.3
+2022,12,Haryana,Cotton,8506,1.5,0
+2022,1,Maharashtra,Rice,2713,-1.6,9.2
+2022,2,Maharashtra,Rice,2750,-0.8,0.3
+2022,3,Maharashtra,Rice,2725,-0.2,1.3
+2022,4,Maharashtra,Rice,2780,1.3,3
+2022,5,Maharashtra,Rice,2800,1.4,5.3
+2022,6,Maharashtra,Rice,2800,0.7,146.1
+2022,7,Maharashtra,Rice,3110,0.3,528
+2022,8,Maharashtra,Rice,3325,-0.6,279.8
+2022,9,Maharashtra,Rice,3420,0.4,265.9
+2022,10,Maharashtra,Rice,3500,0.2,132.3
+2022,11,Maharashtra,Rice,3500,-0.3,0.3
+2022,12,Maharashtra,Rice,3510,-1,1.1
+2022,1,Maharashtra,Jowar,3138,-1.6,9.2
+2022,2,Maharashtra,Jowar,3025,-0.8,0.3
+2022,3,Maharashtra,Jowar,2700,-0.2,1.3
+2022,4,Maharashtra,Jowar,3050,1.3,3
+2022,5,Maharashtra,Jowar,3475,1.4,5.3
+2022,6,Maharashtra,Jowar,3488,0.7,146.1
+2022,7,Maharashtra,Jowar,3510,0.3,528
+2022,8,Maharashtra,Jowar,3463,-0.6,279.8
+2022,9,Maharashtra,Jowar,3580,0.4,265.9
+2022,10,Maharashtra,Jowar,3600,0.2,132.3
+2022,11,Maharashtra,Jowar,3800,-0.3,0.3
+2022,12,Maharashtra,Jowar,3940,-1,1.1
+2022,1,Maharashtra,Bajra,1775,-1.6,9.2
+2022,2,Maharashtra,Bajra,1750,-0.8,0.3
+2022,3,Maharashtra,Bajra,1925,-0.2,1.3
+2022,4,Maharashtra,Bajra,2080,1.3,3
+2022,5,Maharashtra,Bajra,1988,1.4,5.3
+2022,6,Maharashtra,Bajra,2063,0.7,146.1
+2022,7,Maharashtra,Bajra,2220,0.3,528
+2022,8,Maharashtra,Bajra,2325,-0.6,279.8
+2022,9,Maharashtra,Bajra,2090,0.4,265.9
+2022,10,Maharashtra,Bajra,2475,0.2,132.3
+2022,11,Maharashtra,Bajra,2475,-0.3,0.3
+2022,12,Maharashtra,Bajra,2040,-1,1.1
+2022,1,Maharashtra,Wheat,1938,-1.6,9.2
+2022,2,Maharashtra,Wheat,1988,-0.8,0.3
+2022,3,Maharashtra,Wheat,2213,-0.2,1.3
+2022,4,Maharashtra,Wheat,2310,1.3,3
+2022,5,Maharashtra,Wheat,2350,1.4,5.3
+2022,6,Maharashtra,Wheat,2300,0.7,146.1
+2022,7,Maharashtra,Wheat,2300,0.3,528
+2022,8,Maharashtra,Wheat,2438,-0.6,279.8
+2022,9,Maharashtra,Wheat,2390,0.4,265.9
+2022,10,Maharashtra,Wheat,2438,0.2,132.3
+2022,11,Maharashtra,Wheat,2650,-0.3,0.3
+2022,12,Maharashtra,Wheat,2740,-1,1.1
+2022,1,Maharashtra,Arhar(Tur Dal),6050,-1.6,9.2
+2022,2,Maharashtra,Arhar(Tur Dal),6113,-0.8,0.3
+2022,3,Maharashtra,Arhar(Tur Dal),6100,-0.2,1.3
+2022,4,Maharashtra,Arhar(Tur Dal),6090,1.3,3
+2022,5,Maharashtra,Arhar(Tur Dal),5888,1.4,5.3
+2022,6,Maharashtra,Arhar(Tur Dal),5925,0.7,146.1
+2022,7,Maharashtra,Arhar(Tur Dal),6670,0.3,528
+2022,8,Maharashtra,Arhar(Tur Dal),7563,-0.6,279.8
+2022,9,Maharashtra,Arhar(Tur Dal),7090,0.4,265.9
+2022,10,Maharashtra,Arhar(Tur Dal),7088,0.2,132.3
+2022,11,Maharashtra,Arhar(Tur Dal),7275,-0.3,0.3
+2022,12,Maharashtra,Arhar(Tur Dal),7030,-1,1.1
+2022,1,Maharashtra,Potato,1063,-1.6,9.2
+2022,2,Maharashtra,Potato,1213,-0.8,0.3
+2022,3,Maharashtra,Potato,1350,-0.2,1.3
+2022,4,Maharashtra,Potato,1530,1.3,3
+2022,5,Maharashtra,Potato,1488,1.4,5.3
+2022,6,Maharashtra,Potato,1638,0.7,146.1
+2022,7,Maharashtra,Potato,1770,0.3,528
+2022,8,Maharashtra,Potato,1725,-0.6,279.8
+2022,9,Maharashtra,Potato,1710,0.4,265.9
+2022,10,Maharashtra,Potato,1913,0.2,132.3
+2022,11,Maharashtra,Potato,1763,-0.3,0.3
+2022,12,Maharashtra,Potato,1670,-1,1.1
+2022,1,Maharashtra,Chillies,17325,-1.6,9.2
+2022,2,Maharashtra,Chillies,21500,-0.8,0.3
+2022,3,Maharashtra,Chillies,22375,-0.2,1.3
+2022,4,Maharashtra,Chillies,27500,1.3,3
+2022,5,Maharashtra,Chillies,29925,1.4,5.3
+2022,6,Maharashtra,Chillies,29750,0.7,146.1
+2022,7,Maharashtra,Chillies,36260,0.3,528
+2022,8,Maharashtra,Chillies,37500,-0.6,279.8
+2022,9,Maharashtra,Chillies,30300,0.4,265.9
+2022,10,Maharashtra,Chillies,27500,0.2,132.3
+2022,11,Maharashtra,Chillies,27500,-0.3,0.3
+2022,12,Maharashtra,Chillies,31600,-1,1.1
+2022,1,Maharashtra,Turmeric,11925,-1.6,9.2
+2022,2,Maharashtra,Turmeric,11875,-0.8,0.3
+2022,3,Maharashtra,Turmeric,11950,-0.2,1.3
+2022,4,Maharashtra,Turmeric,8960,1.3,3
+2022,5,Maharashtra,Turmeric,10450,1.4,5.3
+2022,6,Maharashtra,Turmeric,9875,0.7,146.1
+2022,7,Maharashtra,Turmeric,11160,0.3,528
+2022,8,Maharashtra,Turmeric,12750,-0.6,279.8
+2022,9,Maharashtra,Turmeric,11500,0.4,265.9
+2022,10,Maharashtra,Turmeric,8500,0.2,132.3
+2022,11,Maharashtra,Turmeric,8500,-0.3,0.3
+2022,12,Maharashtra,Turmeric,8340,-1,1.1
+2022,1,Maharashtra,Onion,2563,-1.6,9.2
+2022,2,Maharashtra,Onion,2550,-0.8,0.3
+2022,3,Maharashtra,Onion,1488,-0.2,1.3
+2022,4,Maharashtra,Onion,1020,1.3,3
+2022,5,Maharashtra,Onion,900,1.4,5.3
+2022,6,Maharashtra,Onion,1150,0.7,146.1
+2022,7,Maharashtra,Onion,1350,0.3,528
+2022,8,Maharashtra,Onion,1225,-0.6,279.8
+2022,9,Maharashtra,Onion,1310,0.4,265.9
+2022,10,Maharashtra,Onion,2013,0.2,132.3
+2022,11,Maharashtra,Onion,2025,-0.3,0.3
+2022,12,Maharashtra,Onion,1500,-1,1.1
+2022,1,Maharashtra,Tomato,1475,-1.6,9.2
+2022,2,Maharashtra,Tomato,1463,-0.8,0.3
+2022,3,Maharashtra,Tomato,1300,-0.2,1.3
+2022,4,Maharashtra,Tomato,1340,1.3,3
+2022,5,Maharashtra,Tomato,2850,1.4,5.3
+2022,6,Maharashtra,Tomato,3375,0.7,146.1
+2022,7,Maharashtra,Tomato,1780,0.3,528
+2022,8,Maharashtra,Tomato,1500,-0.6,279.8
+2022,9,Maharashtra,Tomato,1680,0.4,265.9
+2022,10,Maharashtra,Tomato,2575,0.2,132.3
+2022,11,Maharashtra,Tomato,1550,-0.3,0.3
+2022,12,Maharashtra,Tomato,820,-1,1.1
+2022,1,Maharashtra,Soyabean,6200,-1.6,9.2
+2022,2,Maharashtra,Soyabean,6263,-0.8,0.3
+2022,3,Maharashtra,Soyabean,6550,-0.2,1.3
+2022,4,Maharashtra,Soyabean,6670,1.3,3
+2022,5,Maharashtra,Soyabean,6663,1.4,5.3
+2022,6,Maharashtra,Soyabean,6525,0.7,146.1
+2022,7,Maharashtra,Soyabean,6190,0.3,528
+2022,8,Maharashtra,Soyabean,6150,-0.6,279.8
+2022,9,Maharashtra,Soyabean,5440,0.4,265.9
+2022,10,Maharashtra,Soyabean,4588,0.2,132.3
+2022,11,Maharashtra,Soyabean,5317,-0.3,0.3
+2022,12,Maharashtra,Soyabean,5330,-1,1.1
+2022,1,Punjab,Turmeric,14175,-0.2,104.5
+2022,2,Punjab,Turmeric,14350,0.1,22.9
+2022,3,Punjab,Turmeric,14400,3.3,0.4
+2022,4,Punjab,Turmeric,14440,3.7,0.4
+2022,5,Punjab,Turmeric,14225,1.6,20.1
+2022,6,Punjab,Turmeric,14000,0.6,39.7
+2022,7,Punjab,Turmeric,14000,0.4,219.3
+2022,8,Punjab,Turmeric,13650,0.7,58.4
+2022,9,Punjab,Turmeric,13200,1.4,96.5
+2022,10,Punjab,Turmeric,13000,0.4,9.1
+2022,11,Punjab,Turmeric,13000,1.4,1.4
+2022,12,Punjab,Turmeric,13080,0.6,0.4
+2022,1,Rajasthan,Jower,1979,-0.9,24.4
+2022,2,Rajasthan,Jower,1983,0.5,1.2
+2022,3,Rajasthan,Jower,1988,2,2.1
+2022,4,Rajasthan,Jower,2037,2.6,0.2
+2022,5,Rajasthan,Jower,2131,1.2,5.7
+2022,6,Rajasthan,Jower,2133,0.3,55.1
+2022,7,Rajasthan,Jower,2162,-0.2,270.2
+2022,8,Rajasthan,Jower,2188,-0.7,216.6
+2022,9,Rajasthan,Jower,2259,-0.4,54.2
+2022,10,Rajasthan,Jower,2133,0.4,31.4
+2022,11,Rajasthan,Jower,2319,0.3,1.1
+2022,12,Rajasthan,Jower,2479,-0.2,0
+2022,1,Rajasthan,Bajra,1741,-0.9,24.4
+2022,2,Rajasthan,Bajra,1846,0.5,1.2
+2022,3,Rajasthan,Bajra,1959,2,2.1
+2022,4,Rajasthan,Bajra,1914,2.6,0.2
+2022,5,Rajasthan,Bajra,2078,1.2,5.7
+2022,6,Rajasthan,Bajra,2061,0.3,55.1
+2022,7,Rajasthan,Bajra,1992,-0.2,270.2
+2022,8,Rajasthan,Bajra,2045,-0.7,216.6
+2022,9,Rajasthan,Bajra,1955,-0.4,54.2
+2022,10,Rajasthan,Bajra,1731,0.4,31.4
+2022,11,Rajasthan,Bajra,1806,0.3,1.1
+2022,12,Rajasthan,Bajra,1961,-0.2,0
+2022,1,Rajasthan,Maize,1798,-0.9,24.4
+2022,2,Rajasthan,Maize,1870,0.5,1.2
+2022,3,Rajasthan,Maize,2044,2,2.1
+2022,4,Rajasthan,Maize,2194,2.6,0.2
+2022,5,Rajasthan,Maize,2163,1.2,5.7
+2022,6,Rajasthan,Maize,2045,0.3,55.1
+2022,7,Rajasthan,Maize,2277,-0.2,270.2
+2022,8,Rajasthan,Maize,2279,-0.7,216.6
+2022,9,Rajasthan,Maize,2222,-0.4,54.2
+2022,10,Rajasthan,Maize,2001,0.4,31.4
+2022,11,Rajasthan,Maize,1801,0.3,1.1
+2022,12,Rajasthan,Maize,2242,-0.2,0
+2022,1,Rajasthan,Wheat,2204,-0.9,24.4
+2022,2,Rajasthan,Wheat,2204,0.5,1.2
+2022,3,Rajasthan,Wheat,2308,2,2.1
+2022,4,Rajasthan,Wheat,2355,2.6,0.2
+2022,5,Rajasthan,Wheat,2613,1.2,5.7
+2022,6,Rajasthan,Wheat,2556,0.3,55.1
+2022,7,Rajasthan,Wheat,2482,-0.2,270.2
+2022,8,Rajasthan,Wheat,2456,-0.7,216.6
+2022,9,Rajasthan,Wheat,2491,-0.4,54.2
+2022,10,Rajasthan,Wheat,2463,0.4,31.4
+2022,11,Rajasthan,Wheat,2519,0.3,1.1
+2022,12,Rajasthan,Wheat,2598,-0.2,0
+2022,1,Rajasthan,Barley,2168,-0.9,24.4
+2022,2,Rajasthan,Barley,2201,0.5,1.2
+2022,3,Rajasthan,Barley,2166,2,2.1
+2022,4,Rajasthan,Barley,2739,2.6,0.2
+2022,5,Rajasthan,Barley,2854,1.2,5.7
+2022,6,Rajasthan,Barley,2764,0.3,55.1
+2022,7,Rajasthan,Barley,2734,-0.2,270.2
+2022,8,Rajasthan,Barley,2763,-0.7,216.6
+2022,9,Rajasthan,Barley,2727,-0.4,54.2
+2022,10,Rajasthan,Barley,2883,0.4,31.4
+2022,11,Rajasthan,Barley,2763,0.3,1.1
+2022,12,Rajasthan,Barley,2760,-0.2,0
+2022,1,Rajasthan,Cotton,7639,-0.9,24.4
+2022,2,Rajasthan,Cotton,8043,0.5,1.2
+2022,3,Rajasthan,Cotton,8154,2,2.1
+2022,4,Rajasthan,Cotton,8625,2.6,0.2
+2022,5,Rajasthan,Cotton,9280,1.2,5.7
+2022,6,Rajasthan,Cotton,10845,0.3,55.1
+2022,7,Rajasthan,Cotton,11149,-0.2,270.2
+2022,8,Rajasthan,Cotton,11417,-0.7,216.6
+2022,9,Rajasthan,Cotton,8100,-0.4,54.2
+2022,10,Rajasthan,Cotton,8361,0.4,31.4
+2022,11,Rajasthan,Cotton,9450,0.3,1.1
+2022,12,Rajasthan,Cotton,9442,-0.2,0
+2022,1,Rajasthan,Soyabean,5724,-0.9,24.4
+2022,2,Rajasthan,Soyabean,6283,0.5,1.2
+2022,3,Rajasthan,Soyabean,6900,2,2.1
+2022,4,Rajasthan,Soyabean,6890,2.6,0.2
+2022,5,Rajasthan,Soyabean,6781,1.2,5.7
+2022,6,Rajasthan,Soyabean,6538,0.3,55.1
+2022,7,Rajasthan,Soyabean,6010,-0.2,270.2
+2022,8,Rajasthan,Soyabean,5988,-0.7,216.6
+2022,9,Rajasthan,Soyabean,5690,-0.4,54.2
+2022,10,Rajasthan,Soyabean,5025,0.4,31.4
+2022,11,Rajasthan,Soyabean,5625,0.3,1.1
+2022,12,Rajasthan,Soyabean,5522,-0.2,0
+2022,1,Tamil Nadu,Rice,3000,1.1,34.7
+2022,2,Tamil Nadu,Rice,3000,0.2,7.7
+2022,3,Tamil Nadu,Rice,3100,0.3,12.1
+2022,4,Tamil Nadu,Rice,3040,0.1,65.2
+2022,5,Tamil Nadu,Rice,3040,-0.8,89.2
+2022,6,Tamil Nadu,Rice,3040,-0.1,79.2
+2022,7,Tamil Nadu,Rice,3100,-0.3,138.1
+2022,8,Tamil Nadu,Rice,3163,-0.3,174
+2022,9,Tamil Nadu,Rice,3200,0.1,85.6
+2022,10,Tamil Nadu,Rice,3200,0.1,165.8
+2022,11,Tamil Nadu,Rice,3225,0.8,178
+2022,12,Tamil Nadu,Rice,3480,0.7,101
+2022,1,Tamil Nadu,Jower,2650,1.1,34.7
+2022,2,Tamil Nadu,Jower,2750,0.2,7.7
+2022,3,Tamil Nadu,Jower,3025,0.3,12.1
+2022,4,Tamil Nadu,Jower,3140,0.1,65.2
+2022,5,Tamil Nadu,Jower,3300,-0.8,89.2
+2022,6,Tamil Nadu,Jower,3500,-0.1,79.2
+2022,7,Tamil Nadu,Jower,3460,-0.3,138.1
+2022,8,Tamil Nadu,Jower,3500,-0.3,174
+2022,9,Tamil Nadu,Jower,3440,0.1,85.6
+2022,10,Tamil Nadu,Jower,3400,0.1,165.8
+2022,11,Tamil Nadu,Jower,3050,0.8,178
+2022,12,Tamil Nadu,Jower,3680,0.7,101
+2022,1,Tamil Nadu,Barje,2325,1.1,34.7
+2022,2,Tamil Nadu,Barje,2450,0.2,7.7
+2022,3,Tamil Nadu,Barje,2700,0.3,12.1
+2022,4,Tamil Nadu,Barje,2900,0.1,65.2
+2022,5,Tamil Nadu,Barje,2825,-0.8,89.2
+2022,6,Tamil Nadu,Barje,2700,-0.1,79.2
+2022,7,Tamil Nadu,Barje,2840,-0.3,138.1
+2022,8,Tamil Nadu,Barje,2900,-0.3,174
+2022,9,Tamil Nadu,Barje,2920,0.1,85.6
+2022,10,Tamil Nadu,Barje,2675,0.1,165.8
+2022,11,Tamil Nadu,Barje,2650,0.8,178
+2022,12,Tamil Nadu,Barje,2980,0.7,101
+2022,1,Tamil Nadu,Maize,2150,1.1,34.7
+2022,2,Tamil Nadu,Maize,2350,0.2,7.7
+2022,3,Tamil Nadu,Maize,2525,0.3,12.1
+2022,4,Tamil Nadu,Maize,2860,0.1,65.2
+2022,5,Tamil Nadu,Maize,2800,-0.8,89.2
+2022,6,Tamil Nadu,Maize,2900,-0.1,79.2
+2022,7,Tamil Nadu,Maize,2840,-0.3,138.1
+2022,8,Tamil Nadu,Maize,2950,-0.3,174
+2022,9,Tamil Nadu,Maize,2780,0.1,85.6
+2022,10,Tamil Nadu,Maize,2925,0.1,165.8
+2022,11,Tamil Nadu,Maize,2900,0.8,178
+2022,12,Tamil Nadu,Maize,2660,0.7,101
+2022,1,Tamil Nadu,Ragi,2775,1.1,34.7
+2022,2,Tamil Nadu,Ragi,2800,0.2,7.7
+2022,3,Tamil Nadu,Ragi,2800,0.3,12.1
+2022,4,Tamil Nadu,Ragi,2800,0.1,65.2
+2022,5,Tamil Nadu,Ragi,2800,-0.8,89.2
+2022,6,Tamil Nadu,Ragi,2800,-0.1,79.2
+2022,7,Tamil Nadu,Ragi,2800,-0.3,138.1
+2022,8,Tamil Nadu,Ragi,2775,-0.3,174
+2022,9,Tamil Nadu,Ragi,2700,0.1,85.6
+2022,10,Tamil Nadu,Ragi,2775,0.1,165.8
+2022,11,Tamil Nadu,Ragi,2800,0.8,178
+2022,12,Tamil Nadu,Ragi,2880,0.7,101
+2022,1,Tamil Nadu,Wheat,3488,1.1,34.7
+2022,2,Tamil Nadu,Wheat,3475,0.2,7.7
+2022,3,Tamil Nadu,Wheat,3475,0.3,12.1
+2022,4,Tamil Nadu,Wheat,3530,0.1,65.2
+2022,5,Tamil Nadu,Wheat,3638,-0.8,89.2
+2022,6,Tamil Nadu,Wheat,3525,-0.1,79.2
+2022,7,Tamil Nadu,Wheat,3460,-0.3,138.1
+2022,8,Tamil Nadu,Wheat,3375,-0.3,174
+2022,9,Tamil Nadu,Wheat,3500,0.1,85.6
+2022,10,Tamil Nadu,Wheat,3450,0.1,165.8
+2022,11,Tamil Nadu,Wheat,3575,0.8,178
+2022,12,Tamil Nadu,Wheat,3860,0.7,101
+2022,1,Tamil Nadu,Arhar(Tur Dal),5700,1.1,34.7
+2022,2,Tamil Nadu,Arhar(Tur Dal),5550,0.2,7.7
+2022,3,Tamil Nadu,Arhar(Tur Dal),5500,0.3,12.1
+2022,4,Tamil Nadu,Arhar(Tur Dal),5660,0.1,65.2
+2022,5,Tamil Nadu,Arhar(Tur Dal),5700,-0.8,89.2
+2022,6,Tamil Nadu,Arhar(Tur Dal),5775,-0.1,79.2
+2022,7,Tamil Nadu,Arhar(Tur Dal),5800,-0.3,138.1
+2022,8,Tamil Nadu,Arhar(Tur Dal),5950,-0.3,174
+2022,9,Tamil Nadu,Arhar(Tur Dal),6000,0.1,85.6
+2022,10,Tamil Nadu,Arhar(Tur Dal),6050,0.1,165.8
+2022,11,Tamil Nadu,Arhar(Tur Dal),6100,0.8,178
+2022,12,Tamil Nadu,Arhar(Tur Dal),6120,0.7,101
+2022,1,Tamil Nadu,Potato,1275,1.1,34.7
+2022,2,Tamil Nadu,Potato,1400,0.2,7.7
+2022,3,Tamil Nadu,Potato,1525,0.3,12.1
+2022,4,Tamil Nadu,Potato,1580,0.1,65.2
+2022,5,Tamil Nadu,Potato,1825,-0.8,89.2
+2022,6,Tamil Nadu,Potato,2300,-0.1,79.2
+2022,7,Tamil Nadu,Potato,2280,-0.3,138.1
+2022,8,Tamil Nadu,Potato,2050,-0.3,174
+2022,9,Tamil Nadu,Potato,2080,0.1,85.6
+2022,10,Tamil Nadu,Potato,2300,0.1,165.8
+2022,11,Tamil Nadu,Potato,2250,0.8,178
+2022,12,Tamil Nadu,Potato,2500,0.7,101
+2022,1,Tamil Nadu,Chillies,18000,1.1,34.7
+2022,2,Tamil Nadu,Chillies,18625,0.2,7.7
+2022,3,Tamil Nadu,Chillies,19125,0.3,12.1
+2022,4,Tamil Nadu,Chillies,19500,0.1,65.2
+2022,5,Tamil Nadu,Chillies,19500,-0.8,89.2
+2022,6,Tamil Nadu,Chillies,19875,-0.1,79.2
+2022,7,Tamil Nadu,Chillies,25200,-0.3,138.1
+2022,8,Tamil Nadu,Chillies,29750,-0.3,174
+2022,9,Tamil Nadu,Chillies,29900,0.1,85.6
+2022,10,Tamil Nadu,Chillies,29500,0.1,165.8
+2022,11,Tamil Nadu,Chillies,31875,0.8,178
+2022,12,Tamil Nadu,Chillies,32240,0.7,101
+2022,1,Tamil Nadu,Cotton,9375,1.1,34.7
+2022,2,Tamil Nadu,Cotton,9500,0.2,7.7
+2022,3,Tamil Nadu,Cotton,9400,0.3,12.1
+2022,4,Tamil Nadu,Cotton,9760,0.1,65.2
+2022,5,Tamil Nadu,Cotton,10250,-0.8,89.2
+2022,6,Tamil Nadu,Cotton,9050,-0.1,79.2
+2022,7,Tamil Nadu,Cotton,8380,-0.3,138.1
+2022,8,Tamil Nadu,Cotton,9500,-0.3,174
+2022,9,Tamil Nadu,Cotton,8770,0.1,85.6
+2022,10,Tamil Nadu,Cotton,7250,0.1,165.8
+2022,11,Tamil Nadu,Cotton,6300,0.8,178
+2022,12,Tamil Nadu,Cotton,7380,0.7,101
+2022,1,Tamil Nadu,Onion,3375,1.1,34.7
+2022,2,Tamil Nadu,Onion,3225,0.2,7.7
+2022,3,Tamil Nadu,Onion,2200,0.3,12.1
+2022,4,Tamil Nadu,Onion,1760,0.1,65.2
+2022,5,Tamil Nadu,Onion,1425,-0.8,89.2
+2022,6,Tamil Nadu,Onion,2125,-0.1,79.2
+2022,7,Tamil Nadu,Onion,2020,-0.3,138.1
+2022,8,Tamil Nadu,Onion,1900,-0.3,174
+2022,9,Tamil Nadu,Onion,2080,0.1,85.6
+2022,10,Tamil Nadu,Onion,2775,0.1,165.8
+2022,11,Tamil Nadu,Onion,3075,0.8,178
+2022,12,Tamil Nadu,Onion,2460,0.7,101
+2022,1,Tamil Nadu,Turmeric,7461,1.1,34.7
+2022,2,Tamil Nadu,Turmeric,7830,0.2,7.7
+2022,3,Tamil Nadu,Turmeric,8030,0.3,12.1
+2022,4,Tamil Nadu,Turmeric,7480,0.1,65.2
+2022,5,Tamil Nadu,Turmeric,6720,-0.8,89.2
+2022,6,Tamil Nadu,Turmeric,6641,-0.1,79.2
+2022,7,Tamil Nadu,Turmeric,6832,-0.3,138.1
+2022,8,Tamil Nadu,Turmeric,6828,-0.3,174
+2022,9,Tamil Nadu,Turmeric,6752,0.1,85.6
+2022,10,Tamil Nadu,Turmeric,6696,0.1,165.8
+2022,11,Tamil Nadu,Turmeric,6995,0.8,178
+2022,12,Tamil Nadu,Turmeric,6895,0.7,101
+2022,1,Uttar Pradesh,Rice,2391,0.3,53
+2022,2,Uttar Pradesh,Rice,2483,-0.3,29.9
+2022,3,Uttar Pradesh,Rice,2633,1.8,8.7
+2022,4,Uttar Pradesh,Rice,2715,2.3,6.2
+2022,5,Uttar Pradesh,Rice,2768,0.4,43.7
+2022,6,Uttar Pradesh,Rice,2671,0.8,141.2
+2022,7,Uttar Pradesh,Rice,2630,0.8,409.4
+2022,8,Uttar Pradesh,Rice,2678,0.6,375.1
+2022,9,Uttar Pradesh,Rice,2701,0.4,354
+2022,10,Uttar Pradesh,Rice,2646,0.5,173.7
+2022,11,Uttar Pradesh,Rice,2488,0.3,3.6
+2022,12,Uttar Pradesh,Rice,2513,0.4,5.8
+2022,1,Uttar Pradesh,Jowar,1845,0.3,53
+2022,2,Uttar Pradesh,Jowar,1868,-0.3,29.9
+2022,3,Uttar Pradesh,Jowar,2003,1.8,8.7
+2022,4,Uttar Pradesh,Jowar,2153,2.3,6.2
+2022,5,Uttar Pradesh,Jowar,2188,0.4,43.7
+2022,6,Uttar Pradesh,Jowar,2171,0.8,141.2
+2022,7,Uttar Pradesh,Jowar,2511,0.8,409.4
+2022,8,Uttar Pradesh,Jowar,2819,0.6,375.1
+2022,9,Uttar Pradesh,Jowar,2886,0.4,354
+2022,10,Uttar Pradesh,Jowar,2953,0.5,173.7
+2022,11,Uttar Pradesh,Jowar,2973,0.3,3.6
+2022,12,Uttar Pradesh,Jowar,2781,0.4,5.8
+2022,1,Uttar Pradesh,Bajra,1654,0.3,53
+2022,2,Uttar Pradesh,Bajra,1714,-0.3,29.9
+2022,3,Uttar Pradesh,Bajra,1820,1.8,8.7
+2022,4,Uttar Pradesh,Bajra,2015,2.3,6.2
+2022,5,Uttar Pradesh,Bajra,2024,0.4,43.7
+2022,6,Uttar Pradesh,Bajra,2018,0.8,141.2
+2022,7,Uttar Pradesh,Bajra,1983,0.8,409.4
+2022,8,Uttar Pradesh,Bajra,1993,0.6,375.1
+2022,9,Uttar Pradesh,Bajra,2061,0.4,354
+2022,10,Uttar Pradesh,Bajra,2040,0.5,173.7
+2022,11,Uttar Pradesh,Bajra,2218,0.3,3.6
+2022,12,Uttar Pradesh,Bajra,2360,0.4,5.8
+2022,1,Uttar Pradesh,Maize,1729,0.3,53
+2022,2,Uttar Pradesh,Maize,1765,-0.3,29.9
+2022,3,Uttar Pradesh,Maize,1811,1.8,8.7
+2022,4,Uttar Pradesh,Maize,1783,2.3,6.2
+2022,5,Uttar Pradesh,Maize,1889,0.4,43.7
+2022,6,Uttar Pradesh,Maize,2030,0.8,141.2
+2022,7,Uttar Pradesh,Maize,1996,0.8,409.4
+2022,8,Uttar Pradesh,Maize,1993,0.6,375.1
+2022,9,Uttar Pradesh,Maize,1984,0.4,354
+2022,10,Uttar Pradesh,Maize,2024,0.5,173.7
+2022,11,Uttar Pradesh,Maize,2064,0.3,3.6
+2022,12,Uttar Pradesh,Maize,2067,0.4,5.8
+2022,1,Uttar Pradesh,Wheat,1980,0.3,53
+2022,2,Uttar Pradesh,Wheat,2021,-0.3,29.9
+2022,3,Uttar Pradesh,Wheat,2100,1.8,8.7
+2022,4,Uttar Pradesh,Wheat,2063,2.3,6.2
+2022,5,Uttar Pradesh,Wheat,2148,0.4,43.7
+2022,6,Uttar Pradesh,Wheat,2089,0.8,141.2
+2022,7,Uttar Pradesh,Wheat,2112,0.8,409.4
+2022,8,Uttar Pradesh,Wheat,2304,0.6,375.1
+2022,9,Uttar Pradesh,Wheat,2337,0.4,354
+2022,10,Uttar Pradesh,Wheat,2395,0.5,173.7
+2022,11,Uttar Pradesh,Wheat,2509,0.3,3.6
+2022,12,Uttar Pradesh,Wheat,2680,0.4,5.8
+2022,1,Uttar Pradesh,Barley,1891,0.3,53
+2022,2,Uttar Pradesh,Barley,1944,-0.3,29.9
+2022,3,Uttar Pradesh,Barley,1993,1.8,8.7
+2022,4,Uttar Pradesh,Barley,2011,2.3,6.2
+2022,5,Uttar Pradesh,Barley,2156,0.4,43.7
+2022,6,Uttar Pradesh,Barley,2294,0.8,141.2
+2022,7,Uttar Pradesh,Barley,2430,0.8,409.4
+2022,8,Uttar Pradesh,Barley,2521,0.6,375.1
+2022,9,Uttar Pradesh,Barley,2599,0.4,354
+2022,10,Uttar Pradesh,Barley,2639,0.5,173.7
+2022,11,Uttar Pradesh,Barley,2665,0.3,3.6
+2022,12,Uttar Pradesh,Barley,2655,0.4,5.8
+2022,1,Uttar Pradesh,Arhar(Tur Dal),6293,0.3,53
+2022,2,Uttar Pradesh,Arhar(Tur Dal),6304,-0.3,29.9
+2022,3,Uttar Pradesh,Arhar(Tur Dal),6361,1.8,8.7
+2022,4,Uttar Pradesh,Arhar(Tur Dal),6145,2.3,6.2
+2022,5,Uttar Pradesh,Arhar(Tur Dal),6353,0.4,43.7
+2022,6,Uttar Pradesh,Arhar(Tur Dal),6444,0.8,141.2
+2022,7,Uttar Pradesh,Arhar(Tur Dal),6442,0.8,409.4
+2022,8,Uttar Pradesh,Arhar(Tur Dal),6545,0.6,375.1
+2022,9,Uttar Pradesh,Arhar(Tur Dal),6628,0.4,354
+2022,10,Uttar Pradesh,Arhar(Tur Dal),6638,0.5,173.7
+2022,11,Uttar Pradesh,Arhar(Tur Dal),6648,0.3,3.6
+2022,12,Uttar Pradesh,Arhar(Tur Dal),6658,0.4,5.8
+2022,1,Uttar Pradesh,Potato,700,0.3,53
+2022,2,Uttar Pradesh,Potato,754,-0.3,29.9
+2022,3,Uttar Pradesh,Potato,956,1.8,8.7
+2022,4,Uttar Pradesh,Potato,870,2.3,6.2
+2022,5,Uttar Pradesh,Potato,1026,0.4,43.7
+2022,6,Uttar Pradesh,Potato,1345,0.8,141.2
+2022,7,Uttar Pradesh,Potato,1554,0.8,409.4
+2022,8,Uttar Pradesh,Potato,1675,0.6,375.1
+2022,9,Uttar Pradesh,Potato,1695,0.4,354
+2022,10,Uttar Pradesh,Potato,1731,0.5,173.7
+2022,11,Uttar Pradesh,Potato,1789,0.3,3.6
+2022,12,Uttar Pradesh,Potato,1195,0.4,5.8
+2022,1,Uttar Pradesh,Chillies,17625,0.3,53
+2022,2,Uttar Pradesh,Chillies,17663,-0.3,29.9
+2022,3,Uttar Pradesh,Chillies,18250,1.8,8.7
+2022,4,Uttar Pradesh,Chillies,19200,2.3,6.2
+2022,5,Uttar Pradesh,Chillies,19250,0.4,43.7
+2022,6,Uttar Pradesh,Chillies,18125,0.8,141.2
+2022,7,Uttar Pradesh,Chillies,17760,0.8,409.4
+2022,8,Uttar Pradesh,Chillies,18250,0.6,375.1
+2022,9,Uttar Pradesh,Chillies,19900,0.4,354
+2022,10,Uttar Pradesh,Chillies,21700,0.5,173.7
+2022,11,Uttar Pradesh,Chillies,21000,0.3,3.6
+2022,12,Uttar Pradesh,Chillies,18911,0.4,5.8
+2022,1,Uttar Pradesh,Cotton,8413,0.3,53
+2022,2,Uttar Pradesh,Cotton,8813,-0.3,29.9
+2022,3,Uttar Pradesh,Cotton,9013,1.8,8.7
+2022,4,Uttar Pradesh,Cotton,8730,2.3,6.2
+2022,5,Uttar Pradesh,Cotton,8365,0.4,43.7
+2022,6,Uttar Pradesh,Cotton,7563,0.8,141.2
+2022,7,Uttar Pradesh,Cotton,6860,0.8,409.4
+2022,8,Uttar Pradesh,Cotton,6488,0.6,375.1
+2022,9,Uttar Pradesh,Cotton,6480,0.4,354
+2022,10,Uttar Pradesh,Cotton,8125,0.5,173.7
+2022,11,Uttar Pradesh,Cotton,8631,0.3,3.6
+2022,12,Uttar Pradesh,Cotton,9290,0.4,5.8
+2022,1,Uttar Pradesh,Onion,1875,0.3,53
+2022,2,Uttar Pradesh,Onion,2075,-0.3,29.9
+2022,3,Uttar Pradesh,Onion,2550,1.8,8.7
+2022,4,Uttar Pradesh,Onion,1909,2.3,6.2
+2022,5,Uttar Pradesh,Onion,1289,0.4,43.7
+2022,6,Uttar Pradesh,Onion,1189,0.8,141.2
+2022,7,Uttar Pradesh,Onion,1389,0.8,409.4
+2022,8,Uttar Pradesh,Onion,1510,0.6,375.1
+2022,9,Uttar Pradesh,Onion,1357,0.4,354
+2022,10,Uttar Pradesh,Onion,1375,0.5,173.7
+2022,11,Uttar Pradesh,Onion,1663,0.3,3.6
+2022,12,Uttar Pradesh,Onion,1460,0.4,5.8
+2022,1,Uttar Pradesh,Soyabean,8050,0.3,53
+2022,2,Uttar Pradesh,Soyabean,7650,-0.3,29.9
+2022,3,Uttar Pradesh,Soyabean,7663,1.8,8.7
+2022,4,Uttar Pradesh,Soyabean,7550,2.3,6.2
+2022,5,Uttar Pradesh,Soyabean,7788,0.4,43.7
+2022,6,Uttar Pradesh,Soyabean,7338,0.8,141.2
+2022,7,Uttar Pradesh,Soyabean,6850,0.8,409.4
+2022,8,Uttar Pradesh,Soyabean,6238,0.6,375.1
+2022,9,Uttar Pradesh,Soyabean,5790,0.4,354
+2022,10,Uttar Pradesh,Soyabean,5025,0.5,173.7
+2022,11,Uttar Pradesh,Soyabean,5188,0.3,3.6
+2022,12,Uttar Pradesh,Soyabean,6126,0.4,5.8
+2022,1,West Bengal,Rice,3000,0.3,31.8
+2022,2,West Bengal,Rice,3000,0,64.7
+2022,3,West Bengal,Rice,3000,1.2,31.2
+2022,4,West Bengal,Rice,3000,0.1,111.8
+2022,5,West Bengal,Rice,3000,0.4,327.5
+2022,6,West Bengal,Rice,3000,1.1,580
+2022,7,West Bengal,Rice,3080,1,643.6
+2022,8,West Bengal,Rice,3200,0.2,689
+2022,9,West Bengal,Rice,3340,0.3,555.2
+2022,10,West Bengal,Rice,3375,-0.1,261.3
+2022,11,West Bengal,Rice,3300,0.3,18.8
+2022,12,West Bengal,Rice,3260,0.4,16.7
+2022,1,West Bengal,Jower,3113,0.3,31.8
+2022,2,West Bengal,Jower,2950,0,64.7
+2022,3,West Bengal,Jower,3113,1.2,31.2
+2022,4,West Bengal,Jower,3180,0.1,111.8
+2022,5,West Bengal,Jower,3150,0.4,327.5
+2022,6,West Bengal,Jower,3113,1.1,580
+2022,7,West Bengal,Jower,3200,1,643.6
+2022,8,West Bengal,Jower,3225,0.2,689
+2022,9,West Bengal,Jower,3160,0.3,555.2
+2022,10,West Bengal,Jower,3188,-0.1,261.3
+2022,11,West Bengal,Jower,3225,0.3,18.8
+2022,12,West Bengal,Jower,3220,0.4,16.7
+2022,1,West Bengal,Maize,2663,0.3,31.8
+2022,2,West Bengal,Maize,2613,0,64.7
+2022,3,West Bengal,Maize,2663,1.2,31.2
+2022,4,West Bengal,Maize,2720,0.1,111.8
+2022,5,West Bengal,Maize,2725,0.4,327.5
+2022,6,West Bengal,Maize,2575,1.1,580
+2022,7,West Bengal,Maize,2550,1,643.6
+2022,8,West Bengal,Maize,2850,0.2,689
+2022,9,West Bengal,Maize,2900,0.3,555.2
+2022,10,West Bengal,Maize,2938,-0.1,261.3
+2022,11,West Bengal,Maize,2900,0.3,18.8
+2022,12,West Bengal,Maize,3010,0.4,16.7
+2022,1,West Bengal,Wheat,2125,0.3,31.8
+2022,2,West Bengal,Wheat,2050,0,64.7
+2022,3,West Bengal,Wheat,2075,1.2,31.2
+2022,4,West Bengal,Wheat,2110,0.1,111.8
+2022,5,West Bengal,Wheat,2100,0.4,327.5
+2022,6,West Bengal,Wheat,2100,1.1,580
+2022,7,West Bengal,Wheat,2150,1,643.6
+2022,8,West Bengal,Wheat,2255,0.2,689
+2022,9,West Bengal,Wheat,2356,0.3,555.2
+2022,10,West Bengal,Wheat,2383,-0.1,261.3
+2022,11,West Bengal,Wheat,2470,0.3,18.8
+2022,12,West Bengal,Wheat,2580,0.4,16.7
+2022,1,West Bengal,Arhar(Tur Dal),6500,0.3,31.8
+2022,2,West Bengal,Arhar(Tur Dal),6375,0,64.7
+2022,3,West Bengal,Arhar(Tur Dal),6225,1.2,31.2
+2022,4,West Bengal,Arhar(Tur Dal),6010,0.1,111.8
+2022,5,West Bengal,Arhar(Tur Dal),5913,0.4,327.5
+2022,6,West Bengal,Arhar(Tur Dal),5938,1.1,580
+2022,7,West Bengal,Arhar(Tur Dal),6330,1,643.6
+2022,8,West Bengal,Arhar(Tur Dal),6550,0.2,689
+2022,9,West Bengal,Arhar(Tur Dal),6580,0.3,555.2
+2022,10,West Bengal,Arhar(Tur Dal),7075,-0.1,261.3
+2022,11,West Bengal,Arhar(Tur Dal),7463,0.3,18.8
+2022,12,West Bengal,Arhar(Tur Dal),7400,0.4,16.7
+2022,1,West Bengal,Potato,1225,0.3,31.8
+2022,2,West Bengal,Potato,1325,0,64.7
+2022,3,West Bengal,Potato,1663,1.2,31.2
+2022,4,West Bengal,Potato,1790,0.1,111.8
+2022,5,West Bengal,Potato,2238,0.4,327.5
+2022,6,West Bengal,Potato,2100,1.1,580
+2022,7,West Bengal,Potato,2290,1,643.6
+2022,8,West Bengal,Potato,2278,0.2,689
+2022,9,West Bengal,Potato,2160,0.3,555.2
+2022,10,West Bengal,Potato,2150,-0.1,261.3
+2022,11,West Bengal,Potato,1500,0.3,18.8
+2022,12,West Bengal,Potato,1200,0.4,16.7
+2022,1,West Bengal,Chillies,19813,0.3,31.8
+2022,2,West Bengal,Chillies,21750,0,64.7
+2022,3,West Bengal,Chillies,24313,1.2,31.2
+2022,4,West Bengal,Chillies,26500,0.1,111.8
+2022,5,West Bengal,Chillies,25875,0.4,327.5
+2022,6,West Bengal,Chillies,26875,1.1,580
+2022,7,West Bengal,Chillies,30000,1,643.6
+2022,8,West Bengal,Chillies,32750,0.2,689
+2022,9,West Bengal,Chillies,30100,0.3,555.2
+2022,10,West Bengal,Chillies,24000,-0.1,261.3
+2022,11,West Bengal,Chillies,23625,0.3,18.8
+2022,12,West Bengal,Chillies,21900,0.4,16.7
+2022,1,West Bengal,Onion,2925,0.3,31.8
+2022,2,West Bengal,Onion,3013,0,64.7
+2022,3,West Bengal,Onion,1919,1.2,31.2
+2022,4,West Bengal,Onion,1095,0.1,111.8
+2022,5,West Bengal,Onion,988,0.4,327.5
+2022,6,West Bengal,Onion,1591,1.1,580
+2022,7,West Bengal,Onion,1645,1,643.6
+2022,8,West Bengal,Onion,1781,0.2,689
+2022,9,West Bengal,Onion,1615,0.3,555.2
+2022,10,West Bengal,Onion,2391,-0.1,261.3
+2022,11,West Bengal,Onion,2181,0.3,18.8
+2022,12,West Bengal,Onion,1890,0.4,16.7
+2022,1,West Bengal,Tomato,1975,0.3,31.8
+2022,2,West Bengal,Tomato,1525,0,64.7
+2022,3,West Bengal,Tomato,1350,1.2,31.2
+2022,4,West Bengal,Tomato,1750,0.1,111.8
+2022,5,West Bengal,Tomato,5313,0.4,327.5
+2022,6,West Bengal,Tomato,6275,1.1,580
+2022,7,West Bengal,Tomato,3840,1,643.6
+2022,8,West Bengal,Tomato,2913,0.2,689
+2022,9,West Bengal,Tomato,4200,0.3,555.2
+2022,10,West Bengal,Tomato,5075,-0.1,261.3
+2022,11,West Bengal,Tomato,3675,0.3,18.8
+2022,12,West Bengal,Tomato,2090,0.4,16.7
+2022,1,West Bengal,Coconut,27250,0.3,31.8
+2022,2,West Bengal,Coconut,28000,0,64.7
+2022,3,West Bengal,Coconut,27500,1.2,31.2
+2022,4,West Bengal,Coconut,28000,0.1,111.8
+2022,5,West Bengal,Coconut,26500,0.4,327.5
+2022,6,West Bengal,Coconut,26750,1.1,580
+2022,7,West Bengal,Coconut,30000,1,643.6
+2022,8,West Bengal,Coconut,30000,0.2,689
+2022,9,West Bengal,Coconut,30000,0.3,555.2
+2022,10,West Bengal,Coconut,30000,-0.1,261.3
+2022,11,West Bengal,Coconut,30000,0.3,18.8
+2022,12,West Bengal,Coconut,30000,0.4,16.7
+2022,1,West Bengal,Turmeric,11438,0.3,31.8
+2022,2,West Bengal,Turmeric,11938,0,64.7
+2022,3,West Bengal,Turmeric,10688,1.2,31.2
+2022,4,West Bengal,Turmeric,10550,0.1,111.8
+2022,5,West Bengal,Turmeric,10075,0.4,327.5
+2022,6,West Bengal,Turmeric,9750,1.1,580
+2022,7,West Bengal,Turmeric,9250,1,643.6
+2022,8,West Bengal,Turmeric,9463,0.2,689
+2022,9,West Bengal,Turmeric,9400,0.3,555.2
+2022,10,West Bengal,Turmeric,9250,-0.1,261.3
+2022,11,West Bengal,Turmeric,9000,0.3,18.8
+2022,12,West Bengal,Turmeric,9100,0.4,16.7
+2023,1,Andhra Pradesh,Rice,3205,0.3,0.9
+2023,2,Andhra Pradesh,Rice,3350,-0.7,0
+2023,3,Andhra Pradesh,Rice,3200,-0.1,49.7
+2023,4,Andhra Pradesh,Rice,3200,0,28.7
+2023,5,Andhra Pradesh,Rice,3225,1.5,90.7
+2023,6,Andhra Pradesh,Rice,3212,1,62.1
+2023,7,Andhra Pradesh,Rice,3220,1.7,172.1
+2023,8,Andhra Pradesh,Rice,3275,0.3,72.2
+2023,9,Andhra Pradesh,Rice,3260,0.6,179.5
+2023,10,Andhra Pradesh,Rice,3250,0.1,16.1
+2023,11,Andhra Pradesh,Rice,3125,1,73.4
+2023,12,Andhra Pradesh,Rice,3200,1.4,132.7
+2023,1,Andhra Pradesh,Jowar,3725,0.3,0.9
+2023,2,Andhra Pradesh,Jowar,3975,-0.7,0
+2023,3,Andhra Pradesh,Jowar,3860,-0.1,49.7
+2023,4,Andhra Pradesh,Jowar,3425,0,28.7
+2023,5,Andhra Pradesh,Jowar,3483,1.5,90.7
+2023,6,Andhra Pradesh,Jowar,3550,1,62.1
+2023,7,Andhra Pradesh,Jowar,4088,1.7,172.1
+2023,8,Andhra Pradesh,Jowar,4538,0.3,72.2
+2023,9,Andhra Pradesh,Jowar,5080,0.6,179.5
+2023,10,Andhra Pradesh,Jowar,5430,0.1,16.1
+2023,11,Andhra Pradesh,Jowar,5913,1,73.4
+2023,12,Andhra Pradesh,Jowar,6260,1.4,132.7
+2023,1,Andhra Pradesh,Bajra,2950,0.3,0.9
+2023,2,Andhra Pradesh,Bajra,2975,-0.7,0
+2023,3,Andhra Pradesh,Bajra,3160,-0.1,49.7
+2023,4,Andhra Pradesh,Bajra,3150,0,28.7
+2023,5,Andhra Pradesh,Bajra,3163,1.5,90.7
+2023,6,Andhra Pradesh,Bajra,3170,1,62.1
+2023,7,Andhra Pradesh,Bajra,3125,1.7,172.1
+2023,8,Andhra Pradesh,Bajra,3553,0.3,72.2
+2023,9,Andhra Pradesh,Bajra,3362,0.6,179.5
+2023,10,Andhra Pradesh,Bajra,3463,0.1,16.1
+2023,11,Andhra Pradesh,Bajra,3763,1,73.4
+2023,12,Andhra Pradesh,Bajra,3640,1.4,132.7
+2023,1,Andhra Pradesh,Maize,2350,0.3,0.9
+2023,2,Andhra Pradesh,Maize,2400,-0.7,0
+2023,3,Andhra Pradesh,Maize,2420,-0.1,49.7
+2023,4,Andhra Pradesh,Maize,2325,0,28.7
+2023,5,Andhra Pradesh,Maize,2208,1.5,90.7
+2023,6,Andhra Pradesh,Maize,2424,1,62.1
+2023,7,Andhra Pradesh,Maize,2500,1.7,172.1
+2023,8,Andhra Pradesh,Maize,2463,0.3,72.2
+2023,9,Andhra Pradesh,Maize,2510,0.6,179.5
+2023,10,Andhra Pradesh,Maize,2350,0.1,16.1
+2023,11,Andhra Pradesh,Maize,2425,1,73.4
+2023,12,Andhra Pradesh,Maize,2650,1.4,132.7
+2023,1,Andhra Pradesh,Wheat,3150,0.3,0.9
+2023,2,Andhra Pradesh,Wheat,3150,-0.7,0
+2023,3,Andhra Pradesh,Wheat,3090,-0.1,49.7
+2023,4,Andhra Pradesh,Wheat,3013,0,28.7
+2023,5,Andhra Pradesh,Wheat,3075,1.5,90.7
+2023,6,Andhra Pradesh,Wheat,3040,1,62.1
+2023,7,Andhra Pradesh,Wheat,3188,1.7,172.1
+2023,8,Andhra Pradesh,Wheat,3250,0.3,72.2
+2023,9,Andhra Pradesh,Wheat,3190,0.6,179.5
+2023,10,Andhra Pradesh,Wheat,3325,0.1,16.1
+2023,11,Andhra Pradesh,Wheat,3400,1,73.4
+2023,12,Andhra Pradesh,Wheat,3500,1.4,132.7
+2023,1,Andhra Pradesh,Arhar(Tur Dal),6300,0.3,0.9
+2023,2,Andhra Pradesh,Arhar(Tur Dal),6025,-0.7,0
+2023,3,Andhra Pradesh,Arhar(Tur Dal),6220,-0.1,49.7
+2023,4,Andhra Pradesh,Arhar(Tur Dal),6425,0,28.7
+2023,5,Andhra Pradesh,Arhar(Tur Dal),6628,1.5,90.7
+2023,6,Andhra Pradesh,Arhar(Tur Dal),7030,1,62.1
+2023,7,Andhra Pradesh,Arhar(Tur Dal),7325,1.7,172.1
+2023,8,Andhra Pradesh,Arhar(Tur Dal),7673,0.3,72.2
+2023,9,Andhra Pradesh,Arhar(Tur Dal),8288,0.6,179.5
+2023,10,Andhra Pradesh,Arhar(Tur Dal),9763,0.1,16.1
+2023,11,Andhra Pradesh,Arhar(Tur Dal),10800,1,73.4
+2023,12,Andhra Pradesh,Arhar(Tur Dal),10500,1.4,132.7
+2023,1,Andhra Pradesh,Onion,2100,0.3,0.9
+2023,2,Andhra Pradesh,Onion,2005,-0.7,0
+2023,3,Andhra Pradesh,Onion,1717,-0.1,49.7
+2023,4,Andhra Pradesh,Onion,1838,0,28.7
+2023,5,Andhra Pradesh,Onion,1936,1.5,90.7
+2023,6,Andhra Pradesh,Onion,1980,1,62.1
+2023,7,Andhra Pradesh,Onion,2263,1.7,172.1
+2023,8,Andhra Pradesh,Onion,2600,0.3,72.2
+2023,9,Andhra Pradesh,Onion,3100,0.6,179.5
+2023,10,Andhra Pradesh,Onion,3463,0.1,16.1
+2023,11,Andhra Pradesh,Onion,4125,1,73.4
+2023,12,Andhra Pradesh,Onion,3570,1.4,132.7
+2023,1,Andhra Pradesh,Cotton,8046,0.3,0.9
+2023,2,Andhra Pradesh,Cotton,7781,-0.7,0
+2023,3,Andhra Pradesh,Cotton,7347,-0.1,49.7
+2023,4,Andhra Pradesh,Cotton,7593,0,28.7
+2023,5,Andhra Pradesh,Cotton,7211,1.5,90.7
+2023,6,Andhra Pradesh,Cotton,7000,1,62.1
+2023,7,Andhra Pradesh,Cotton,6931,1.7,172.1
+2023,8,Andhra Pradesh,Cotton,7315,0.3,72.2
+2023,9,Andhra Pradesh,Cotton,7359,0.6,179.5
+2023,10,Andhra Pradesh,Cotton,7264,0.1,16.1
+2023,11,Andhra Pradesh,Cotton,7356,1,73.4
+2023,12,Andhra Pradesh,Cotton,6989,1.4,132.7
+2023,1,Andhra Pradesh,Tomato,1213,0.3,0.9
+2023,2,Andhra Pradesh,Tomato,1695,-0.7,0
+2023,3,Andhra Pradesh,Tomato,1900,-0.1,49.7
+2023,4,Andhra Pradesh,Tomato,1178,0,28.7
+2023,5,Andhra Pradesh,Tomato,1055,1.5,90.7
+2023,6,Andhra Pradesh,Tomato,2660,1,62.1
+2023,7,Andhra Pradesh,Tomato,8825,1.7,172.1
+2023,8,Andhra Pradesh,Tomato,9125,0.3,72.2
+2023,9,Andhra Pradesh,Tomato,1864,0.6,179.5
+2023,10,Andhra Pradesh,Tomato,1183,0.1,16.1
+2023,11,Andhra Pradesh,Tomato,1800,1,73.4
+2023,12,Andhra Pradesh,Tomato,2040,1.4,132.7
+2023,1,Andhra Pradesh,Groundnut,6577,0.3,0.9
+2023,2,Andhra Pradesh,Groundnut,7238,-0.7,0
+2023,3,Andhra Pradesh,Groundnut,6736,-0.1,49.7
+2023,4,Andhra Pradesh,Groundnut,6222,0,28.7
+2023,5,Andhra Pradesh,Groundnut,6250,1.5,90.7
+2023,6,Andhra Pradesh,Groundnut,6329,1,62.1
+2023,7,Andhra Pradesh,Groundnut,6778,1.7,172.1
+2023,8,Andhra Pradesh,Groundnut,7012,0.3,72.2
+2023,9,Andhra Pradesh,Groundnut,7039,0.6,179.5
+2023,10,Andhra Pradesh,Groundnut,7320,0.1,16.1
+2023,11,Andhra Pradesh,Groundnut,7167,1,73.4
+2023,12,Andhra Pradesh,Groundnut,7118,1.4,132.7
+2023,1,Andhra Pradesh,Ragi,3263,0.3,0.9
+2023,2,Andhra Pradesh,Ragi,2963,-0.7,0
+2023,3,Andhra Pradesh,Ragi,2890,-0.1,49.7
+2023,4,Andhra Pradesh,Ragi,3000,0,28.7
+2023,5,Andhra Pradesh,Ragi,3200,1.5,90.7
+2023,6,Andhra Pradesh,Ragi,3520,1,62.1
+2023,7,Andhra Pradesh,Ragi,3425,1.7,172.1
+2023,8,Andhra Pradesh,Ragi,3500,0.3,72.2
+2023,9,Andhra Pradesh,Ragi,3550,0.6,179.5
+2023,10,Andhra Pradesh,Ragi,3663,0.1,16.1
+2023,11,Andhra Pradesh,Ragi,3575,1,73.4
+2023,12,Andhra Pradesh,Ragi,3800,1.4,132.7
+2023,1,Andhra Pradesh,Turmeric,5852,0.3,0.9
+2023,2,Andhra Pradesh,Turmeric,5376,-0.7,0
+2023,3,Andhra Pradesh,Turmeric,5440,-0.1,49.7
+2023,4,Andhra Pradesh,Turmeric,5039,0,28.7
+2023,5,Andhra Pradesh,Turmeric,5130,1.5,90.7
+2023,6,Andhra Pradesh,Turmeric,5432,1,62.1
+2023,7,Andhra Pradesh,Turmeric,6471,1.7,172.1
+2023,8,Andhra Pradesh,Turmeric,9133,0.3,72.2
+2023,9,Andhra Pradesh,Turmeric,9187,0.6,179.5
+2023,10,Andhra Pradesh,Turmeric,9451,0.1,16.1
+2023,11,Andhra Pradesh,Turmeric,9197,1,73.4
+2023,12,Andhra Pradesh,Turmeric,9143,1.4,132.7
+2023,1,Assam,Rice,2800,1,0.5
+2023,2,Assam,Rice,2800,1.4,26.1
+2023,3,Assam,Rice,2800,0.3,88.7
+2023,4,Assam,Rice,2838,1.2,108.5
+2023,5,Assam,Rice,3100,0.4,138
+2023,6,Assam,Rice,3100,0.4,455.4
+2023,7,Assam,Rice,3100,1.2,281.4
+2023,8,Assam,Rice,3100,0.9,316.8
+2023,9,Assam,Rice,3120,2,152.4
+2023,10,Assam,Rice,3150,0.6,114.5
+2023,11,Assam,Rice,3150,1.1,17.3
+2023,12,Assam,Rice,3150,1.1,17.2
+2023,1,Assam,Maize,2150,1,0.5
+2023,2,Assam,Maize,2150,1.4,26.1
+2023,3,Assam,Maize,2150,0.3,88.7
+2023,4,Assam,Maize,2113,1.2,108.5
+2023,5,Assam,Maize,1863,0.4,138
+2023,6,Assam,Maize,1800,0.4,455.4
+2023,7,Assam,Maize,1800,1.2,281.4
+2023,8,Assam,Maize,1800,0.9,316.8
+2023,9,Assam,Maize,1975,2,152.4
+2023,10,Assam,Maize,1975,0.6,114.5
+2023,11,Assam,Maize,2369,1.1,17.3
+2023,12,Assam,Maize,2520,1.1,17.2
+2023,1,Assam,Potato,1238,1,0.5
+2023,2,Assam,Potato,850,1.4,26.1
+2023,3,Assam,Potato,740,0.3,88.7
+2023,4,Assam,Potato,1225,1.2,108.5
+2023,5,Assam,Potato,1575,0.4,138
+2023,6,Assam,Potato,1445,0.4,455.4
+2023,7,Assam,Potato,1506,1.2,281.4
+2023,8,Assam,Potato,1488,0.9,316.8
+2023,9,Assam,Potato,1420,2,152.4
+2023,10,Assam,Potato,1400,0.6,114.5
+2023,11,Assam,Potato,1406,1.1,17.3
+2023,12,Assam,Potato,1380,1.1,17.2
+2023,1,Assam,Onion,2175,1,0.5
+2023,2,Assam,Onion,1975,1.4,26.1
+2023,3,Assam,Onion,1420,0.3,88.7
+2023,4,Assam,Onion,1325,1.2,108.5
+2023,5,Assam,Onion,1700,0.4,138
+2023,6,Assam,Onion,1930,0.4,455.4
+2023,7,Assam,Onion,2325,1.2,281.4
+2023,8,Assam,Onion,2838,0.9,316.8
+2023,9,Assam,Onion,2895,2,152.4
+2023,10,Assam,Onion,3550,0.6,114.5
+2023,11,Assam,Onion,5025,1.1,17.3
+2023,12,Assam,Onion,4220,1.1,17.2
+2023,1,Bihar,Rice,4853,1.8,0.2
+2023,2,Bihar,Rice,4965,-1.1,0
+2023,3,Bihar,Rice,5020,1.2,19.7
+2023,4,Bihar,Rice,5045,1.6,14.8
+2023,5,Bihar,Rice,5060,-0.6,40.1
+2023,6,Bihar,Rice,5048,0.9,85
+2023,7,Bihar,Rice,5030,1,178.2
+2023,8,Bihar,Rice,5060,0.6,306.5
+2023,9,Bihar,Rice,5102,0.5,190.9
+2023,10,Bihar,Rice,5143,0.7,94.6
+2023,11,Bihar,Rice,5203,-0.1,0.1
+2023,12,Bihar,Rice,5104,0.3,8.1
+2023,1,Bihar,Maize,2193,1.8,0.2
+2023,2,Bihar,Maize,2200,-1.1,0
+2023,3,Bihar,Maize,2172,1.2,19.7
+2023,4,Bihar,Maize,2160,1.6,14.8
+2023,5,Bihar,Maize,2098,-0.6,40.1
+2023,6,Bihar,Maize,1944,0.9,85
+2023,7,Bihar,Maize,1888,1,178.2
+2023,8,Bihar,Maize,1968,0.6,306.5
+2023,9,Bihar,Maize,1984,0.5,190.9
+2023,10,Bihar,Maize,1985,0.7,94.6
+2023,11,Bihar,Maize,2039,-0.1,0.1
+2023,12,Bihar,Maize,2092,0.3,8.1
+2023,1,Bihar,Wheat,3028,1.8,0.2
+2023,2,Bihar,Wheat,3050,-1.1,0
+2023,3,Bihar,Wheat,2978,1.2,19.7
+2023,4,Bihar,Wheat,2818,1.6,14.8
+2023,5,Bihar,Wheat,2713,-0.6,40.1
+2023,6,Bihar,Wheat,2750,0.9,85
+2023,7,Bihar,Wheat,2780,1,178.2
+2023,8,Bihar,Wheat,2730,0.6,306.5
+2023,9,Bihar,Wheat,2754,0.5,190.9
+2023,10,Bihar,Wheat,2733,0.7,94.6
+2023,11,Bihar,Wheat,2780,-0.1,0.1
+2023,12,Bihar,Wheat,2839,0.3,8.1
+2023,1,Bihar,Barley,2758,1.8,0.2
+2023,2,Bihar,Barley,2773,-1.1,0
+2023,3,Bihar,Barley,2738,1.2,19.7
+2023,4,Bihar,Barley,2690,1.6,14.8
+2023,5,Bihar,Barley,2635,-0.6,40.1
+2023,6,Bihar,Barley,2644,0.9,85
+2023,7,Bihar,Barley,2690,1,178.2
+2023,8,Bihar,Barley,2720,0.6,306.5
+2023,9,Bihar,Barley,2696,0.5,190.9
+2023,10,Bihar,Barley,2700,0.7,94.6
+2023,11,Bihar,Barley,2500,-0.1,0.1
+2023,12,Bihar,Barley,2356,0.3,8.1
+2023,1,Bihar,Potato,1168,1.8,0.2
+2023,2,Bihar,Potato,828,-1.1,0
+2023,3,Bihar,Potato,812,1.2,19.7
+2023,4,Bihar,Potato,1043,1.6,14.8
+2023,5,Bihar,Potato,1228,-0.6,40.1
+2023,6,Bihar,Potato,1338,0.9,85
+2023,7,Bihar,Potato,1365,1,178.2
+2023,8,Bihar,Potato,1418,0.6,306.5
+2023,9,Bihar,Potato,1390,0.5,190.9
+2023,10,Bihar,Potato,1220,0.7,94.6
+2023,11,Bihar,Potato,1265,-0.1,0.1
+2023,12,Bihar,Potato,1120,0.3,8.1
+2023,1,Bihar,Onion,1603,1.8,0.2
+2023,2,Bihar,Onion,1450,-1.1,0
+2023,3,Bihar,Onion,1218,1.2,19.7
+2023,4,Bihar,Onion,1065,1.6,14.8
+2023,5,Bihar,Onion,1200,-0.6,40.1
+2023,6,Bihar,Onion,1298,0.9,85
+2023,7,Bihar,Onion,1558,1,178.2
+2023,8,Bihar,Onion,2115,0.6,306.5
+2023,9,Bihar,Onion,2662,0.5,190.9
+2023,10,Bihar,Onion,3075,0.7,94.6
+2023,11,Bihar,Onion,4670,-0.1,0.1
+2023,12,Bihar,Onion,3410,0.3,8.1
+2023,1,Bihar,Chillies,11413,1.8,0.2
+2023,2,Bihar,Chillies,11295,-1.1,0
+2023,3,Bihar,Chillies,11370,1.2,19.7
+2023,4,Bihar,Chillies,11790,1.6,14.8
+2023,5,Bihar,Chillies,11885,-0.6,40.1
+2023,6,Bihar,Chillies,11480,0.9,85
+2023,7,Bihar,Chillies,11800,1,178.2
+2023,8,Bihar,Chillies,10935,0.6,306.5
+2023,9,Bihar,Chillies,8114,0.5,190.9
+2023,10,Bihar,Chillies,6400,0.7,94.6
+2023,11,Bihar,Chillies,4878,-0.1,0.1
+2023,12,Bihar,Chillies,3020,0.3,8.1
+2023,1,Bihar,Tomato,803,1.8,0.2
+2023,2,Bihar,Tomato,715,-1.1,0
+2023,3,Bihar,Tomato,898,1.2,19.7
+2023,4,Bihar,Tomato,1218,1.6,14.8
+2023,5,Bihar,Tomato,1398,-0.6,40.1
+2023,6,Bihar,Tomato,3158,0.9,85
+2023,7,Bihar,Tomato,7525,1,178.2
+2023,8,Bihar,Tomato,6668,0.6,306.5
+2023,9,Bihar,Tomato,1990,0.5,190.9
+2023,10,Bihar,Tomato,1880,0.7,94.6
+2023,11,Bihar,Tomato,3123,-0.1,0.1
+2023,12,Bihar,Tomato,2412,0.3,8.1
+2023,1,Gujarat,Rice,3513,-0.2,1.6
+2023,2,Gujarat,Rice,3719,2,0
+2023,3,Gujarat,Rice,3710,1.5,13.9
+2023,4,Gujarat,Rice,3606,0.3,6.4
+2023,5,Gujarat,Rice,3588,0.1,17.8
+2023,6,Gujarat,Rice,3650,-0.3,229.2
+2023,7,Gujarat,Rice,3750,0.2,423.2
+2023,8,Gujarat,Rice,3769,0.5,20.9
+2023,9,Gujarat,Rice,3750,1,168.4
+2023,10,Gujarat,Rice,3738,1.4,1.8
+2023,11,Gujarat,Rice,3756,1.3,23
+2023,12,Gujarat,Rice,3870,1.1,1.1
+2023,1,Gujarat,Jower,4375,-0.2,1.6
+2023,2,Gujarat,Jower,4681,2,0
+2023,3,Gujarat,Jower,5055,1.5,13.9
+2023,4,Gujarat,Jower,4826,0.3,6.4
+2023,5,Gujarat,Jower,4163,0.1,17.8
+2023,6,Gujarat,Jower,4590,-0.3,229.2
+2023,7,Gujarat,Jower,4906,0.2,423.2
+2023,8,Gujarat,Jower,4838,0.5,20.9
+2023,9,Gujarat,Jower,5010,1,168.4
+2023,10,Gujarat,Jower,5519,1.4,1.8
+2023,11,Gujarat,Jower,5606,1.3,23
+2023,12,Gujarat,Jower,5021,1.1,1.1
+2023,1,Gujarat,Barje,2019,-0.2,1.6
+2023,2,Gujarat,Barje,1850,2,0
+2023,3,Gujarat,Barje,1810,1.5,13.9
+2023,4,Gujarat,Barje,1815,0.3,6.4
+2023,5,Gujarat,Barje,1913,0.1,17.8
+2023,6,Gujarat,Barje,1920,-0.3,229.2
+2023,7,Gujarat,Barje,1995,0.2,423.2
+2023,8,Gujarat,Barje,1940,0.5,20.9
+2023,9,Gujarat,Barje,1908,1,168.4
+2023,10,Gujarat,Barje,1908,1.4,1.8
+2023,11,Gujarat,Barje,1908,1.3,23
+2023,12,Gujarat,Barje,1908,1.1,1.1
+2023,1,Gujarat,Maize,2434,-0.2,1.6
+2023,2,Gujarat,Maize,2329,2,0
+2023,3,Gujarat,Maize,2287,1.5,13.9
+2023,4,Gujarat,Maize,2170,0.3,6.4
+2023,5,Gujarat,Maize,1923,0.1,17.8
+2023,6,Gujarat,Maize,1858,-0.3,229.2
+2023,7,Gujarat,Maize,2059,0.2,423.2
+2023,8,Gujarat,Maize,2064,0.5,20.9
+2023,9,Gujarat,Maize,2121,1,168.4
+2023,10,Gujarat,Maize,2056,1.4,1.8
+2023,11,Gujarat,Maize,2145,1.3,23
+2023,12,Gujarat,Maize,2249,1.1,1.1
+2023,1,Gujarat,Wheat,2669,-0.2,1.6
+2023,2,Gujarat,Wheat,2549,2,0
+2023,3,Gujarat,Wheat,2376,1.5,13.9
+2023,4,Gujarat,Wheat,2825,0.3,6.4
+2023,5,Gujarat,Wheat,2284,0.1,17.8
+2023,6,Gujarat,Wheat,2180,-0.3,229.2
+2023,7,Gujarat,Wheat,2200,0.2,423.2
+2023,8,Gujarat,Wheat,2363,0.5,20.9
+2023,9,Gujarat,Wheat,2440,1,168.4
+2023,10,Gujarat,Wheat,2508,1.4,1.8
+2023,11,Gujarat,Wheat,2644,1.3,23
+2023,12,Gujarat,Wheat,2570,1.1,1.1
+2023,1,Gujarat,Arhar(Tur Dal),8350,-0.2,1.6
+2023,2,Gujarat,Arhar(Tur Dal),8450,2,0
+2023,3,Gujarat,Arhar(Tur Dal),8800,1.5,13.9
+2023,4,Gujarat,Arhar(Tur Dal),9300,0.3,6.4
+2023,5,Gujarat,Arhar(Tur Dal),9525,0.1,17.8
+2023,6,Gujarat,Arhar(Tur Dal),10210,-0.3,229.2
+2023,7,Gujarat,Arhar(Tur Dal),10300,0.2,423.2
+2023,8,Gujarat,Arhar(Tur Dal),10450,0.5,20.9
+2023,9,Gujarat,Arhar(Tur Dal),11700,1,168.4
+2023,10,Gujarat,Arhar(Tur Dal),12188,1.4,1.8
+2023,11,Gujarat,Arhar(Tur Dal),12950,1.3,23
+2023,12,Gujarat,Arhar(Tur Dal),12460,1.1,1.1
+2023,1,Gujarat,Cotton,8613,-0.2,1.6
+2023,2,Gujarat,Cotton,8163,2,0
+2023,3,Gujarat,Cotton,8000,1.5,13.9
+2023,4,Gujarat,Cotton,8288,0.3,6.4
+2023,5,Gujarat,Cotton,7925,0.1,17.8
+2023,6,Gujarat,Cotton,7158,-0.3,229.2
+2023,7,Gujarat,Cotton,7000,0.2,423.2
+2023,8,Gujarat,Cotton,7463,0.5,20.9
+2023,9,Gujarat,Cotton,6300,1,168.4
+2023,10,Gujarat,Cotton,6700,1.4,1.8
+2023,11,Gujarat,Cotton,7131,1.3,23
+2023,12,Gujarat,Cotton,6813,1.1,1.1
+2023,1,Gujarat,Tomato,806,-0.2,1.6
+2023,2,Gujarat,Tomato,838,2,0
+2023,3,Gujarat,Tomato,1110,1.5,13.9
+2023,4,Gujarat,Tomato,1050,0.3,6.4
+2023,5,Gujarat,Tomato,1075,0.1,17.8
+2023,6,Gujarat,Tomato,2360,-0.3,229.2
+2023,7,Gujarat,Tomato,7425,0.2,423.2
+2023,8,Gujarat,Tomato,6213,0.5,20.9
+2023,9,Gujarat,Tomato,1355,1,168.4
+2023,10,Gujarat,Tomato,1075,1.4,1.8
+2023,11,Gujarat,Tomato,2000,1.3,23
+2023,12,Gujarat,Tomato,2120,1.1,1.1
+2023,1,Gujarat,Soyabean,5406,-0.2,1.6
+2023,2,Gujarat,Soyabean,5338,2,0
+2023,3,Gujarat,Soyabean,5410,1.5,13.9
+2023,4,Gujarat,Soyabean,5350,0.3,6.4
+2023,5,Gujarat,Soyabean,5358,0.1,17.8
+2023,6,Gujarat,Soyabean,5200,-0.3,229.2
+2023,7,Gujarat,Soyabean,4913,0.2,423.2
+2023,8,Gujarat,Soyabean,4900,0.5,20.9
+2023,9,Gujarat,Soyabean,4890,1,168.4
+2023,10,Gujarat,Soyabean,4788,1.4,1.8
+2023,11,Gujarat,Soyabean,5138,1.3,23
+2023,12,Gujarat,Soyabean,4960,1.1,1.1
+2023,1,Gujarat,Groundnut,6174,-0.2,1.6
+2023,2,Gujarat,Groundnut,6549,2,0
+2023,3,Gujarat,Groundnut,6712,1.5,13.9
+2023,4,Gujarat,Groundnut,6793,0.3,6.4
+2023,5,Gujarat,Groundnut,6818,0.1,17.8
+2023,6,Gujarat,Groundnut,6780,-0.3,229.2
+2023,7,Gujarat,Groundnut,7049,0.2,423.2
+2023,8,Gujarat,Groundnut,6879,0.5,20.9
+2023,9,Gujarat,Groundnut,6605,1,168.4
+2023,10,Gujarat,Groundnut,6410,1.4,1.8
+2023,11,Gujarat,Groundnut,6243,1.3,23
+2023,12,Gujarat,Groundnut,6564,1.1,1.1
+2023,1,Haryana,Rice,2900,0.2,11.6
+2023,2,Haryana,Rice,3038,2.1,0
+2023,3,Haryana,Rice,3183,0.5,41.8
+2023,4,Haryana,Rice,2928,-0.3,14.6
+2023,5,Haryana,Rice,2805,-2.1,52.4
+2023,6,Haryana,Rice,2703,-1.2,81.1
+2023,7,Haryana,Rice,2678,-0.3,236.9
+2023,8,Haryana,Rice,2650,0.9,58.5
+2023,9,Haryana,Rice,3005,0.8,43.6
+2023,10,Haryana,Rice,3042,0.1,9.9
+2023,11,Haryana,Rice,3069,0,4.8
+2023,12,Haryana,Rice,3110,0.1,2.8
+2023,1,Haryana,Bajra,2133,0.2,11.6
+2023,2,Haryana,Bajra,2025,2.1,0
+2023,3,Haryana,Bajra,2102,0.5,41.8
+2023,4,Haryana,Bajra,2113,-0.3,14.6
+2023,5,Haryana,Bajra,2081,-2.1,52.4
+2023,6,Haryana,Bajra,2072,-1.2,81.1
+2023,7,Haryana,Bajra,1978,-0.3,236.9
+2023,8,Haryana,Bajra,1830,0.9,58.5
+2023,9,Haryana,Bajra,2010,0.8,43.6
+2023,10,Haryana,Bajra,2093,0.1,9.9
+2023,11,Haryana,Bajra,2143,0,4.8
+2023,12,Haryana,Bajra,2194,0.1,2.8
+2023,1,Haryana,Wheat,2638,0.2,11.6
+2023,2,Haryana,Wheat,2375,2.1,0
+2023,3,Haryana,Wheat,2164,0.5,41.8
+2023,4,Haryana,Wheat,2124,-0.3,14.6
+2023,5,Haryana,Wheat,2136,-2.1,52.4
+2023,6,Haryana,Wheat,2194,-1.2,81.1
+2023,7,Haryana,Wheat,2163,-0.3,236.9
+2023,8,Haryana,Wheat,2240,0.9,58.5
+2023,9,Haryana,Wheat,2260,0.8,43.6
+2023,10,Haryana,Wheat,2413,0.1,9.9
+2023,11,Haryana,Wheat,2438,0,4.8
+2023,12,Haryana,Wheat,2402,0.1,2.8
+2023,1,Haryana,Barley,2160,0.2,11.6
+2023,2,Haryana,Barley,2156,2.1,0
+2023,3,Haryana,Barley,2204,0.5,41.8
+2023,4,Haryana,Barley,2198,-0.3,14.6
+2023,5,Haryana,Barley,2180,-2.1,52.4
+2023,6,Haryana,Barley,2180,-1.2,81.1
+2023,7,Haryana,Barley,2275,-0.3,236.9
+2023,8,Haryana,Barley,2400,0.9,58.5
+2023,9,Haryana,Barley,2460,0.8,43.6
+2023,10,Haryana,Barley,2350,0.1,9.9
+2023,11,Haryana,Barley,2500,0,4.8
+2023,12,Haryana,Barley,2580,0.1,2.8
+2023,1,Haryana,Potato,1050,0.2,11.6
+2023,2,Haryana,Potato,900,2.1,0
+2023,3,Haryana,Potato,710,0.5,41.8
+2023,4,Haryana,Potato,888,-0.3,14.6
+2023,5,Haryana,Potato,1100,-2.1,52.4
+2023,6,Haryana,Potato,1270,-1.2,81.1
+2023,7,Haryana,Potato,1475,-0.3,236.9
+2023,8,Haryana,Potato,1413,0.9,58.5
+2023,9,Haryana,Potato,1430,0.8,43.6
+2023,10,Haryana,Potato,1475,0.1,9.9
+2023,11,Haryana,Potato,1275,0,4.8
+2023,12,Haryana,Potato,930,0.1,2.8
+2023,1,Haryana,Onion,1663,0.2,11.6
+2023,2,Haryana,Onion,1166,2.1,0
+2023,3,Haryana,Onion,840,0.5,41.8
+2023,4,Haryana,Onion,906,-0.3,14.6
+2023,5,Haryana,Onion,798,-2.1,52.4
+2023,6,Haryana,Onion,865,-1.2,81.1
+2023,7,Haryana,Onion,1363,-0.3,236.9
+2023,8,Haryana,Onion,1572,0.9,58.5
+2023,9,Haryana,Onion,1715,0.8,43.6
+2023,10,Haryana,Onion,2117,0.1,9.9
+2023,11,Haryana,Onion,3694,0,4.8
+2023,12,Haryana,Onion,2455,0.1,2.8
+2023,1,Haryana,Cotton,8460,0.2,11.6
+2023,2,Haryana,Cotton,8223,2.1,0
+2023,3,Haryana,Cotton,7850,0.5,41.8
+2023,4,Haryana,Cotton,7966,-0.3,14.6
+2023,5,Haryana,Cotton,7440,-2.1,52.4
+2023,6,Haryana,Cotton,7246,-1.2,81.1
+2023,7,Haryana,Cotton,7085,-0.3,236.9
+2023,8,Haryana,Cotton,7173,0.9,58.5
+2023,9,Haryana,Cotton,7326,0.8,43.6
+2023,10,Haryana,Cotton,7146,0.1,9.9
+2023,11,Haryana,Cotton,6973,0,4.8
+2023,12,Haryana,Cotton,6942,0.1,2.8
+2023,1,Maharashtra,Rice,3525,1.1,0.3
+2023,2,Maharashtra,Rice,3563,0.4,0
+2023,3,Maharashtra,Rice,3570,0.5,9.5
+2023,4,Maharashtra,Rice,3575,-0.8,30.3
+2023,5,Maharashtra,Rice,3600,-1.1,24.1
+2023,6,Maharashtra,Rice,3550,-0.4,113.5
+2023,7,Maharashtra,Rice,3625,1,491.9
+2023,8,Maharashtra,Rice,3588,-0.5,114.8
+2023,9,Maharashtra,Rice,3620,0.4,244.9
+2023,10,Maharashtra,Rice,3800,0,19.7
+2023,11,Maharashtra,Rice,3688,0.7,34.1
+2023,12,Maharashtra,Rice,3775,0.8,6.1
+2023,1,Maharashtra,Jowar,3863,1.1,0.3
+2023,2,Maharashtra,Jowar,3975,0.4,0
+2023,3,Maharashtra,Jowar,4080,0.5,9.5
+2023,4,Maharashtra,Jowar,4150,-0.8,30.3
+2023,5,Maharashtra,Jowar,4225,-1.1,24.1
+2023,6,Maharashtra,Jowar,4070,-0.4,113.5
+2023,7,Maharashtra,Jowar,4575,1,491.9
+2023,8,Maharashtra,Jowar,4875,-0.5,114.8
+2023,9,Maharashtra,Jowar,4940,0.4,244.9
+2023,10,Maharashtra,Jowar,5000,0,19.7
+2023,11,Maharashtra,Jowar,5000,0.7,34.1
+2023,12,Maharashtra,Jowar,5500,0.8,6.1
+2023,1,Maharashtra,Bajra,2163,1.1,0.3
+2023,2,Maharashtra,Bajra,2000,0.4,0
+2023,3,Maharashtra,Bajra,2220,0.5,9.5
+2023,4,Maharashtra,Bajra,2150,-0.8,30.3
+2023,5,Maharashtra,Bajra,2213,-1.1,24.1
+2023,6,Maharashtra,Bajra,2412,-0.4,113.5
+2023,7,Maharashtra,Bajra,2417,1,491.9
+2023,8,Maharashtra,Bajra,2407,-0.5,114.8
+2023,9,Maharashtra,Bajra,2444,0.4,244.9
+2023,10,Maharashtra,Bajra,2402,0,19.7
+2023,11,Maharashtra,Bajra,2438,0.7,34.1
+2023,12,Maharashtra,Bajra,2251,0.8,6.1
+2023,1,Maharashtra,Wheat,2800,1.1,0.3
+2023,2,Maharashtra,Wheat,2588,0.4,0
+2023,3,Maharashtra,Wheat,2310,0.5,9.5
+2023,4,Maharashtra,Wheat,2400,-0.8,30.3
+2023,5,Maharashtra,Wheat,2288,-1.1,24.1
+2023,6,Maharashtra,Wheat,2315,-0.4,113.5
+2023,7,Maharashtra,Wheat,2338,1,491.9
+2023,8,Maharashtra,Wheat,2481,-0.5,114.8
+2023,9,Maharashtra,Wheat,2511,0.4,244.9
+2023,10,Maharashtra,Wheat,2563,0,19.7
+2023,11,Maharashtra,Wheat,2706,0.7,34.1
+2023,12,Maharashtra,Wheat,2661,0.8,6.1
+2023,1,Maharashtra,Arhar(Tur Dal),6925,1.1,0.3
+2023,2,Maharashtra,Arhar(Tur Dal),7300,0.4,0
+2023,3,Maharashtra,Arhar(Tur Dal),7820,0.5,9.5
+2023,4,Maharashtra,Arhar(Tur Dal),8000,-0.8,30.3
+2023,5,Maharashtra,Arhar(Tur Dal),8425,-1.1,24.1
+2023,6,Maharashtra,Arhar(Tur Dal),9401,-0.4,113.5
+2023,7,Maharashtra,Arhar(Tur Dal),9450,1,491.9
+2023,8,Maharashtra,Arhar(Tur Dal),9939,-0.5,114.8
+2023,9,Maharashtra,Arhar(Tur Dal),10921,0.4,244.9
+2023,10,Maharashtra,Arhar(Tur Dal),10469,0,19.7
+2023,11,Maharashtra,Arhar(Tur Dal),10625,0.7,34.1
+2023,12,Maharashtra,Arhar(Tur Dal),8780,0.8,6.1
+2023,1,Maharashtra,Potato,1525,1.1,0.3
+2023,2,Maharashtra,Potato,1138,0.4,0
+2023,3,Maharashtra,Potato,1060,0.5,9.5
+2023,4,Maharashtra,Potato,1150,-0.8,30.3
+2023,5,Maharashtra,Potato,1113,-1.1,24.1
+2023,6,Maharashtra,Potato,1170,-0.4,113.5
+2023,7,Maharashtra,Potato,1225,1,491.9
+2023,8,Maharashtra,Potato,1225,-0.5,114.8
+2023,9,Maharashtra,Potato,1120,0.4,244.9
+2023,10,Maharashtra,Potato,1025,0,19.7
+2023,11,Maharashtra,Potato,1088,0.7,34.1
+2023,12,Maharashtra,Potato,1175,0.8,6.1
+2023,1,Maharashtra,Chillies,36250,1.1,0.3
+2023,2,Maharashtra,Chillies,41750,0.4,0
+2023,3,Maharashtra,Chillies,31600,0.5,9.5
+2023,4,Maharashtra,Chillies,36000,-0.8,30.3
+2023,5,Maharashtra,Chillies,35050,-1.1,24.1
+2023,6,Maharashtra,Chillies,35000,-0.4,113.5
+2023,7,Maharashtra,Chillies,35125,1,491.9
+2023,8,Maharashtra,Chillies,34375,-0.5,114.8
+2023,9,Maharashtra,Chillies,32500,0.4,244.9
+2023,10,Maharashtra,Chillies,33125,0,19.7
+2023,11,Maharashtra,Chillies,34000,0.7,34.1
+2023,12,Maharashtra,Chillies,33000,0.8,6.1
+2023,1,Maharashtra,Turmeric,9375,1.1,0.3
+2023,2,Maharashtra,Turmeric,11050,0.4,0
+2023,3,Maharashtra,Turmeric,12820,0.5,9.5
+2023,4,Maharashtra,Turmeric,13250,-0.8,30.3
+2023,5,Maharashtra,Turmeric,9275,-1.1,24.1
+2023,6,Maharashtra,Turmeric,9020,-0.4,113.5
+2023,7,Maharashtra,Turmeric,11375,1,491.9
+2023,8,Maharashtra,Turmeric,15375,-0.5,114.8
+2023,9,Maharashtra,Turmeric,19500,0.4,244.9
+2023,10,Maharashtra,Turmeric,19688,0,19.7
+2023,11,Maharashtra,Turmeric,18125,0.7,34.1
+2023,12,Maharashtra,Turmeric,17500,0.8,6.1
+2023,1,Maharashtra,Onion,1675,1.1,0.3
+2023,2,Maharashtra,Onion,1063,0.4,0
+2023,3,Maharashtra,Onion,1000,0.5,9.5
+2023,4,Maharashtra,Onion,825,-0.8,30.3
+2023,5,Maharashtra,Onion,775,-1.1,24.1
+2023,6,Maharashtra,Onion,1090,-0.4,113.5
+2023,7,Maharashtra,Onion,1350,1,491.9
+2023,8,Maharashtra,Onion,1563,-0.5,114.8
+2023,9,Maharashtra,Onion,1690,0.4,244.9
+2023,10,Maharashtra,Onion,2163,0,19.7
+2023,11,Maharashtra,Onion,3525,0.7,34.1
+2023,12,Maharashtra,Onion,2825,0.8,6.1
+2023,1,Maharashtra,Tomato,1000,1.1,0.3
+2023,2,Maharashtra,Tomato,1125,0.4,0
+2023,3,Maharashtra,Tomato,1180,0.5,9.5
+2023,4,Maharashtra,Tomato,975,-0.8,30.3
+2023,5,Maharashtra,Tomato,900,-1.1,24.1
+2023,6,Maharashtra,Tomato,2120,-0.4,113.5
+2023,7,Maharashtra,Tomato,7075,1,491.9
+2023,8,Maharashtra,Tomato,5800,-0.5,114.8
+2023,9,Maharashtra,Tomato,830,0.4,244.9
+2023,10,Maharashtra,Tomato,863,0,19.7
+2023,11,Maharashtra,Tomato,1400,0.7,34.1
+2023,12,Maharashtra,Tomato,2100,0.8,6.1
+2023,1,Maharashtra,Soyabean,5463,1.1,0.3
+2023,2,Maharashtra,Soyabean,5388,0.4,0
+2023,3,Maharashtra,Soyabean,5130,0.5,9.5
+2023,4,Maharashtra,Soyabean,5188,-0.8,30.3
+2023,5,Maharashtra,Soyabean,5350,-1.1,24.1
+2023,6,Maharashtra,Soyabean,4930,-0.4,113.5
+2023,7,Maharashtra,Soyabean,4798,1,491.9
+2023,8,Maharashtra,Soyabean,4825,-0.5,114.8
+2023,9,Maharashtra,Soyabean,4816,0.4,244.9
+2023,10,Maharashtra,Soyabean,4933,0,19.7
+2023,11,Maharashtra,Soyabean,5070,0.7,34.1
+2023,12,Maharashtra,Soyabean,5096,0.8,6.1
+2023,1,Punjab,Turmeric,13350,0.2,15.1
+2023,2,Punjab,Turmeric,13200,2.5,0.1
+2023,3,Punjab,Turmeric,13280,1.4,56.6
+2023,4,Punjab,Turmeric,12700,-0.4,26
+2023,5,Punjab,Turmeric,12575,-0.1,45
+2023,6,Punjab,Turmeric,12840,0.2,65.8
+2023,7,Punjab,Turmeric,13450,0.3,231.3
+2023,8,Punjab,Turmeric,13450,1.5,54.9
+2023,9,Punjab,Turmeric,13820,1.3,64.4
+2023,10,Punjab,Turmeric,14575,1.4,24.8
+2023,11,Punjab,Turmeric,14813,1.4,12
+2023,12,Punjab,Turmeric,14804,1,3.3
+2023,1,Rajasthan,Jower,2394,-0.6,13
+2023,2,Rajasthan,Jower,2613,2,0
+2023,3,Rajasthan,Jower,2691,0.9,18.6
+2023,4,Rajasthan,Jower,2704,-0.8,14.5
+2023,5,Rajasthan,Jower,2776,-2.4,62.3
+2023,6,Rajasthan,Jower,2690,-0.1,156.9
+2023,7,Rajasthan,Jower,2750,0.1,228.4
+2023,8,Rajasthan,Jower,2963,0.3,30.9
+2023,9,Rajasthan,Jower,3250,1,83.4
+2023,10,Rajasthan,Jower,3300,0.5,8.6
+2023,11,Rajasthan,Jower,3400,1.4,9.9
+2023,12,Rajasthan,Jower,3250,0.2,4.8
+2023,1,Rajasthan,Bajra,2035,-0.6,13
+2023,2,Rajasthan,Bajra,1975,2,0
+2023,3,Rajasthan,Bajra,2144,0.9,18.6
+2023,4,Rajasthan,Bajra,2323,-0.8,14.5
+2023,5,Rajasthan,Bajra,2100,-2.4,62.3
+2023,6,Rajasthan,Bajra,1975,-0.1,156.9
+2023,7,Rajasthan,Bajra,1913,0.1,228.4
+2023,8,Rajasthan,Bajra,1984,0.3,30.9
+2023,9,Rajasthan,Bajra,2075,1,83.4
+2023,10,Rajasthan,Bajra,2200,0.5,8.6
+2023,11,Rajasthan,Bajra,2319,1.4,9.9
+2023,12,Rajasthan,Bajra,2375,0.2,4.8
+2023,1,Rajasthan,Maize,2388,-0.6,13
+2023,2,Rajasthan,Maize,2450,2,0
+2023,3,Rajasthan,Maize,2410,0.9,18.6
+2023,4,Rajasthan,Maize,2350,-0.8,14.5
+2023,5,Rajasthan,Maize,2253,-2.4,62.3
+2023,6,Rajasthan,Maize,2360,-0.1,156.9
+2023,7,Rajasthan,Maize,2265,0.1,228.4
+2023,8,Rajasthan,Maize,2210,0.3,30.9
+2023,9,Rajasthan,Maize,2180,1,83.4
+2023,10,Rajasthan,Maize,2504,0.5,8.6
+2023,11,Rajasthan,Maize,2374,1.4,9.9
+2023,12,Rajasthan,Maize,2416,0.2,4.8
+2023,1,Rajasthan,Wheat,2728,-0.6,13
+2023,2,Rajasthan,Wheat,2700,2,0
+2023,3,Rajasthan,Wheat,2573,0.9,18.6
+2023,4,Rajasthan,Wheat,2456,-0.8,14.5
+2023,5,Rajasthan,Wheat,2425,-2.4,62.3
+2023,6,Rajasthan,Wheat,2469,-0.1,156.9
+2023,7,Rajasthan,Wheat,2438,0.1,228.4
+2023,8,Rajasthan,Wheat,2583,0.3,30.9
+2023,9,Rajasthan,Wheat,2530,1,83.4
+2023,10,Rajasthan,Wheat,2576,0.5,8.6
+2023,11,Rajasthan,Wheat,2561,1.4,9.9
+2023,12,Rajasthan,Wheat,2525,0.2,4.8
+2023,1,Rajasthan,Barley,2873,-0.6,13
+2023,2,Rajasthan,Barley,1917.91,2,0
+2023,3,Rajasthan,Barley,2050,0.9,18.6
+2023,4,Rajasthan,Barley,1945,-0.8,14.5
+2023,5,Rajasthan,Barley,1860,-2.4,62.3
+2023,6,Rajasthan,Barley,1738,-0.1,156.9
+2023,7,Rajasthan,Barley,1710,0.1,228.4
+2023,8,Rajasthan,Barley,1629,0.3,30.9
+2023,9,Rajasthan,Barley,1749,1,83.4
+2023,10,Rajasthan,Barley,1779,0.5,8.6
+2023,11,Rajasthan,Barley,1809,1.4,9.9
+2023,12,Rajasthan,Barley,1945,0.2,4.8
+2023,1,Rajasthan,Cotton,10007,-0.6,13
+2023,2,Rajasthan,Cotton,9963,2,0
+2023,3,Rajasthan,Cotton,9838,0.9,18.6
+2023,4,Rajasthan,Cotton,8610.5,-0.8,14.5
+2023,5,Rajasthan,Cotton,8610.5,-2.4,62.3
+2023,6,Rajasthan,Cotton,8610.5,-0.1,156.9
+2023,7,Rajasthan,Cotton,8610.5,0.1,228.4
+2023,8,Rajasthan,Cotton,8610.5,0.3,30.9
+2023,9,Rajasthan,Cotton,8610.5,1,83.4
+2023,10,Rajasthan,Cotton,7350,0.5,8.6
+2023,11,Rajasthan,Cotton,7505,1.4,9.9
+2023,12,Rajasthan,Cotton,7000,0.2,4.8
+2023,1,Rajasthan,Soyabean,5410,-0.6,13
+2023,2,Rajasthan,Soyabean,5525,2,0
+2023,3,Rajasthan,Soyabean,5460,0.9,18.6
+2023,4,Rajasthan,Soyabean,5825,-0.8,14.5
+2023,5,Rajasthan,Soyabean,5450,-2.4,62.3
+2023,6,Rajasthan,Soyabean,5590,-0.1,156.9
+2023,7,Rajasthan,Soyabean,5563,0.1,228.4
+2023,8,Rajasthan,Soyabean,5575,0.3,30.9
+2023,9,Rajasthan,Soyabean,5390,1,83.4
+2023,10,Rajasthan,Soyabean,5225,0.5,8.6
+2023,11,Rajasthan,Soyabean,5538,1.4,9.9
+2023,12,Rajasthan,Soyabean,5780,0.2,4.8
+2023,1,Tamil Nadu,Rice,3600,0.1,5.1
+2023,2,Tamil Nadu,Rice,3500,-0.1,15.5
+2023,3,Tamil Nadu,Rice,3340,-0.1,34.3
+2023,4,Tamil Nadu,Rice,3350,0.1,45.5
+2023,5,Tamil Nadu,Rice,3350,0.5,122.9
+2023,6,Tamil Nadu,Rice,3530,0.7,53.4
+2023,7,Tamil Nadu,Rice,3675,0.4,64.9
+2023,8,Tamil Nadu,Rice,3825,1.2,87.4
+2023,9,Tamil Nadu,Rice,3740,0.9,148.3
+2023,10,Tamil Nadu,Rice,3700,0.6,98.6
+2023,11,Tamil Nadu,Rice,3750,0.7,231.8
+2023,12,Tamil Nadu,Rice,3800,1.2,127.6
+2023,1,Tamil Nadu,Jower,4000,0.1,5.1
+2023,2,Tamil Nadu,Jower,4000,-0.1,15.5
+2023,3,Tamil Nadu,Jower,3340,-0.1,34.3
+2023,4,Tamil Nadu,Jower,3650,0.1,45.5
+2023,5,Tamil Nadu,Jower,3925,0.5,122.9
+2023,6,Tamil Nadu,Jower,3920,0.7,53.4
+2023,7,Tamil Nadu,Jower,4000,0.4,64.9
+2023,8,Tamil Nadu,Jower,4325,1.2,87.4
+2023,9,Tamil Nadu,Jower,4220,0.9,148.3
+2023,10,Tamil Nadu,Jower,3988,0.6,98.6
+2023,11,Tamil Nadu,Jower,4488,0.7,231.8
+2023,12,Tamil Nadu,Jower,4530,1.2,127.6
+2023,1,Tamil Nadu,Barje,2975,0.1,5.1
+2023,2,Tamil Nadu,Barje,2975,-0.1,15.5
+2023,3,Tamil Nadu,Barje,3100,-0.1,34.3
+2023,4,Tamil Nadu,Barje,3213,0.1,45.5
+2023,5,Tamil Nadu,Barje,3375,0.5,122.9
+2023,6,Tamil Nadu,Barje,3680,0.7,53.4
+2023,7,Tamil Nadu,Barje,3675,0.4,64.9
+2023,8,Tamil Nadu,Barje,3700,1.2,87.4
+2023,9,Tamil Nadu,Barje,3700,0.9,148.3
+2023,10,Tamil Nadu,Barje,3850,0.6,98.6
+2023,11,Tamil Nadu,Barje,4050,0.7,231.8
+2023,12,Tamil Nadu,Barje,4160,1.2,127.6
+2023,1,Tamil Nadu,Maize,2900,0.1,5.1
+2023,2,Tamil Nadu,Maize,2800,-0.1,15.5
+2023,3,Tamil Nadu,Maize,2700,-0.1,34.3
+2023,4,Tamil Nadu,Maize,2575,0.1,45.5
+2023,5,Tamil Nadu,Maize,2700,0.5,122.9
+2023,6,Tamil Nadu,Maize,2560,0.7,53.4
+2023,7,Tamil Nadu,Maize,2550,0.4,64.9
+2023,8,Tamil Nadu,Maize,2775,1.2,87.4
+2023,9,Tamil Nadu,Maize,2780,0.9,148.3
+2023,10,Tamil Nadu,Maize,2650,0.6,98.6
+2023,11,Tamil Nadu,Maize,2700,0.7,231.8
+2023,12,Tamil Nadu,Maize,2760,1.2,127.6
+2023,1,Tamil Nadu,Ragi,2900,0.1,5.1
+2023,2,Tamil Nadu,Ragi,2900,-0.1,15.5
+2023,3,Tamil Nadu,Ragi,2960,-0.1,34.3
+2023,4,Tamil Nadu,Ragi,3200,0.1,45.5
+2023,5,Tamil Nadu,Ragi,3250,0.5,122.9
+2023,6,Tamil Nadu,Ragi,3200,0.7,53.4
+2023,7,Tamil Nadu,Ragi,3225,0.4,64.9
+2023,8,Tamil Nadu,Ragi,3450,1.2,87.4
+2023,9,Tamil Nadu,Ragi,3700,0.9,148.3
+2023,10,Tamil Nadu,Ragi,3725,0.6,98.6
+2023,11,Tamil Nadu,Ragi,3700,0.7,231.8
+2023,12,Tamil Nadu,Ragi,3800,1.2,127.6
+2023,1,Tamil Nadu,Wheat,4150,0.1,5.1
+2023,2,Tamil Nadu,Wheat,4000,-0.1,15.5
+2023,3,Tamil Nadu,Wheat,3720,-0.1,34.3
+2023,4,Tamil Nadu,Wheat,3675,0.1,45.5
+2023,5,Tamil Nadu,Wheat,3713,0.5,122.9
+2023,6,Tamil Nadu,Wheat,3580,0.7,53.4
+2023,7,Tamil Nadu,Wheat,3675,0.4,64.9
+2023,8,Tamil Nadu,Wheat,4050,1.2,87.4
+2023,9,Tamil Nadu,Wheat,4120,0.9,148.3
+2023,10,Tamil Nadu,Wheat,4075,0.6,98.6
+2023,11,Tamil Nadu,Wheat,4275,0.7,231.8
+2023,12,Tamil Nadu,Wheat,4280,1.2,127.6
+2023,1,Tamil Nadu,Arhar(Tur Dal),6200,0.1,5.1
+2023,2,Tamil Nadu,Arhar(Tur Dal),6025,-0.1,15.5
+2023,3,Tamil Nadu,Arhar(Tur Dal),6200,-0.1,34.3
+2023,4,Tamil Nadu,Arhar(Tur Dal),6200,0.1,45.5
+2023,5,Tamil Nadu,Arhar(Tur Dal),6475,0.5,122.9
+2023,6,Tamil Nadu,Arhar(Tur Dal),7000,0.7,53.4
+2023,7,Tamil Nadu,Arhar(Tur Dal),6975,0.4,64.9
+2023,8,Tamil Nadu,Arhar(Tur Dal),6950,1.2,87.4
+2023,9,Tamil Nadu,Arhar(Tur Dal),6920,0.9,148.3
+2023,10,Tamil Nadu,Arhar(Tur Dal),6950,0.6,98.6
+2023,11,Tamil Nadu,Arhar(Tur Dal),6963,0.7,231.8
+2023,12,Tamil Nadu,Arhar(Tur Dal),6790,1.2,127.6
+2023,1,Tamil Nadu,Potato,1950,0.1,5.1
+2023,2,Tamil Nadu,Potato,1525,-0.1,15.5
+2023,3,Tamil Nadu,Potato,1040,-0.1,34.3
+2023,4,Tamil Nadu,Potato,1000,0.1,45.5
+2023,5,Tamil Nadu,Potato,1475,0.5,122.9
+2023,6,Tamil Nadu,Potato,1700,0.7,53.4
+2023,7,Tamil Nadu,Potato,1550,0.4,64.9
+2023,8,Tamil Nadu,Potato,1800,1.2,87.4
+2023,9,Tamil Nadu,Potato,1780,0.9,148.3
+2023,10,Tamil Nadu,Potato,1700,0.6,98.6
+2023,11,Tamil Nadu,Potato,2000,0.7,231.8
+2023,12,Tamil Nadu,Potato,1780,1.2,127.6
+2023,1,Tamil Nadu,Chillies,30150,0.1,5.1
+2023,2,Tamil Nadu,Chillies,24825,-0.1,15.5
+2023,3,Tamil Nadu,Chillies,22500,-0.1,34.3
+2023,4,Tamil Nadu,Chillies,22500,0.1,45.5
+2023,5,Tamil Nadu,Chillies,22375,0.5,122.9
+2023,6,Tamil Nadu,Chillies,21000,0.7,53.4
+2023,7,Tamil Nadu,Chillies,22350,0.4,64.9
+2023,8,Tamil Nadu,Chillies,26013,1.2,87.4
+2023,9,Tamil Nadu,Chillies,26500,0.9,148.3
+2023,10,Tamil Nadu,Chillies,26500,0.6,98.6
+2023,11,Tamil Nadu,Chillies,27375,0.7,231.8
+2023,12,Tamil Nadu,Chillies,26640,1.2,127.6
+2023,1,Tamil Nadu,Cotton,7225,0.1,5.1
+2023,2,Tamil Nadu,Cotton,8150,-0.1,15.5
+2023,3,Tamil Nadu,Cotton,7060,-0.1,34.3
+2023,4,Tamil Nadu,Cotton,6275,0.1,45.5
+2023,5,Tamil Nadu,Cotton,6100,0.5,122.9
+2023,6,Tamil Nadu,Cotton,5580,0.7,53.4
+2023,7,Tamil Nadu,Cotton,6050,0.4,64.9
+2023,8,Tamil Nadu,Cotton,6075,1.2,87.4
+2023,9,Tamil Nadu,Cotton,6060,0.9,148.3
+2023,10,Tamil Nadu,Cotton,5925,0.6,98.6
+2023,11,Tamil Nadu,Cotton,5600,0.7,231.8
+2023,12,Tamil Nadu,Cotton,5220,1.2,127.6
+2023,1,Tamil Nadu,Onion,2375,0.1,5.1
+2023,2,Tamil Nadu,Onion,1675,-0.1,15.5
+2023,3,Tamil Nadu,Onion,1620,-0.1,34.3
+2023,4,Tamil Nadu,Onion,1500,0.1,45.5
+2023,5,Tamil Nadu,Onion,1650,0.5,122.9
+2023,6,Tamil Nadu,Onion,2020,0.7,53.4
+2023,7,Tamil Nadu,Onion,2000,0.4,64.9
+2023,8,Tamil Nadu,Onion,2525,1.2,87.4
+2023,9,Tamil Nadu,Onion,2940,0.9,148.3
+2023,10,Tamil Nadu,Onion,3975,0.6,98.6
+2023,11,Tamil Nadu,Onion,5475,0.7,231.8
+2023,12,Tamil Nadu,Onion,4000,1.2,127.6
+2023,1,Tamil Nadu,Turmeric,6953,0.1,5.1
+2023,2,Tamil Nadu,Turmeric,6860,-0.1,15.5
+2023,3,Tamil Nadu,Turmeric,6543,-0.1,34.3
+2023,4,Tamil Nadu,Turmeric,6318,0.1,45.5
+2023,5,Tamil Nadu,Turmeric,6540,0.5,122.9
+2023,6,Tamil Nadu,Turmeric,6770,0.7,53.4
+2023,7,Tamil Nadu,Turmeric,9981,0.4,64.9
+2023,8,Tamil Nadu,Turmeric,12225,1.2,87.4
+2023,9,Tamil Nadu,Turmeric,12193,0.9,148.3
+2023,10,Tamil Nadu,Turmeric,12206,0.6,98.6
+2023,11,Tamil Nadu,Turmeric,12625,0.7,231.8
+2023,12,Tamil Nadu,Turmeric,12710,1.2,127.6
+2023,1,Uttar Pradesh,Rice,2588,0.2,20.6
+2023,2,Uttar Pradesh,Rice,2593,1.8,14.9
+2023,3,Uttar Pradesh,Rice,2486,0.1,33.6
+2023,4,Uttar Pradesh,Rice,2579,-0.8,18.1
+2023,5,Uttar Pradesh,Rice,2599,-1.8,55.6
+2023,6,Uttar Pradesh,Rice,2609,0.5,173.5
+2023,7,Uttar Pradesh,Rice,2695,0.8,483.4
+2023,8,Uttar Pradesh,Rice,2699,0.5,434.3
+2023,9,Uttar Pradesh,Rice,2644,1.2,276.5
+2023,10,Uttar Pradesh,Rice,2681,0.8,54.7
+2023,11,Uttar Pradesh,Rice,2693,0.6,6.7
+2023,12,Uttar Pradesh,Rice,2736,0.7,11.6
+2023,1,Uttar Pradesh,Jowar,3250,0.2,20.6
+2023,2,Uttar Pradesh,Jowar,3666,1.8,14.9
+2023,3,Uttar Pradesh,Jowar,3055,0.1,33.6
+2023,4,Uttar Pradesh,Jowar,2673,-0.8,18.1
+2023,5,Uttar Pradesh,Jowar,2931,-1.8,55.6
+2023,6,Uttar Pradesh,Jowar,3702,0.5,173.5
+2023,7,Uttar Pradesh,Jowar,3528,0.8,483.4
+2023,8,Uttar Pradesh,Jowar,3150,0.5,434.3
+2023,9,Uttar Pradesh,Jowar,2755,1.2,276.5
+2023,10,Uttar Pradesh,Jowar,3163,0.8,54.7
+2023,11,Uttar Pradesh,Jowar,3331,0.6,6.7
+2023,12,Uttar Pradesh,Jowar,3335,0.7,11.6
+2023,1,Uttar Pradesh,Bajra,2373,0.2,20.6
+2023,2,Uttar Pradesh,Bajra,2348,1.8,14.9
+2023,3,Uttar Pradesh,Bajra,2274,0.1,33.6
+2023,4,Uttar Pradesh,Bajra,2169,-0.8,18.1
+2023,5,Uttar Pradesh,Bajra,2171,-1.8,55.6
+2023,6,Uttar Pradesh,Bajra,2179,0.5,173.5
+2023,7,Uttar Pradesh,Bajra,2159,0.8,483.4
+2023,8,Uttar Pradesh,Bajra,2015,0.5,434.3
+2023,9,Uttar Pradesh,Bajra,1993,1.2,276.5
+2023,10,Uttar Pradesh,Bajra,2169,0.8,54.7
+2023,11,Uttar Pradesh,Bajra,2510,0.6,6.7
+2023,12,Uttar Pradesh,Bajra,2405,0.7,11.6
+2023,1,Uttar Pradesh,Maize,2081,0.2,20.6
+2023,2,Uttar Pradesh,Maize,2106,1.8,14.9
+2023,3,Uttar Pradesh,Maize,2118,0.1,33.6
+2023,4,Uttar Pradesh,Maize,2214,-0.8,18.1
+2023,5,Uttar Pradesh,Maize,2221,-1.8,55.6
+2023,6,Uttar Pradesh,Maize,2046,0.5,173.5
+2023,7,Uttar Pradesh,Maize,2016,0.8,483.4
+2023,8,Uttar Pradesh,Maize,2013,0.5,434.3
+2023,9,Uttar Pradesh,Maize,2014,1.2,276.5
+2023,10,Uttar Pradesh,Maize,2086,0.8,54.7
+2023,11,Uttar Pradesh,Maize,2139,0.6,6.7
+2023,12,Uttar Pradesh,Maize,2183,0.7,11.6
+2023,1,Uttar Pradesh,Wheat,2769,0.2,20.6
+2023,2,Uttar Pradesh,Wheat,2735,1.8,14.9
+2023,3,Uttar Pradesh,Wheat,2351,0.1,33.6
+2023,4,Uttar Pradesh,Wheat,2201,-0.8,18.1
+2023,5,Uttar Pradesh,Wheat,2208,-1.8,55.6
+2023,6,Uttar Pradesh,Wheat,2330,0.5,173.5
+2023,7,Uttar Pradesh,Wheat,2365,0.8,483.4
+2023,8,Uttar Pradesh,Wheat,2356,0.5,434.3
+2023,9,Uttar Pradesh,Wheat,2337,1.2,276.5
+2023,10,Uttar Pradesh,Wheat,2376,0.8,54.7
+2023,11,Uttar Pradesh,Wheat,2460,0.6,6.7
+2023,12,Uttar Pradesh,Wheat,2484,0.7,11.6
+2023,1,Uttar Pradesh,Barley,2726,0.2,20.6
+2023,2,Uttar Pradesh,Barley,2766,1.8,14.9
+2023,3,Uttar Pradesh,Barley,2725,0.1,33.6
+2023,4,Uttar Pradesh,Barley,2550,-0.8,18.1
+2023,5,Uttar Pradesh,Barley,2419,-1.8,55.6
+2023,6,Uttar Pradesh,Barley,2360,0.5,173.5
+2023,7,Uttar Pradesh,Barley,2300,0.8,483.4
+2023,8,Uttar Pradesh,Barley,2243,0.5,434.3
+2023,9,Uttar Pradesh,Barley,2239,1.2,276.5
+2023,10,Uttar Pradesh,Barley,2261,0.8,54.7
+2023,11,Uttar Pradesh,Barley,2276,0.6,6.7
+2023,12,Uttar Pradesh,Barley,2191,0.7,11.6
+2023,1,Uttar Pradesh,Arhar(Tur Dal),6713,0.2,20.6
+2023,2,Uttar Pradesh,Arhar(Tur Dal),6718,1.8,14.9
+2023,3,Uttar Pradesh,Arhar(Tur Dal),6764,0.1,33.6
+2023,4,Uttar Pradesh,Arhar(Tur Dal),6858,-0.8,18.1
+2023,5,Uttar Pradesh,Arhar(Tur Dal),6943,-1.8,55.6
+2023,6,Uttar Pradesh,Arhar(Tur Dal),7296,0.5,173.5
+2023,7,Uttar Pradesh,Arhar(Tur Dal),8275,0.8,483.4
+2023,8,Uttar Pradesh,Arhar(Tur Dal),8650,0.5,434.3
+2023,9,Uttar Pradesh,Arhar(Tur Dal),9112,1.2,276.5
+2023,10,Uttar Pradesh,Arhar(Tur Dal),9550,0.8,54.7
+2023,11,Uttar Pradesh,Arhar(Tur Dal),9420,0.6,6.7
+2023,12,Uttar Pradesh,Arhar(Tur Dal),9435,0.7,11.6
+2023,1,Uttar Pradesh,Potato,870,0.2,20.6
+2023,2,Uttar Pradesh,Potato,741,1.8,14.9
+2023,3,Uttar Pradesh,Potato,696,0.1,33.6
+2023,4,Uttar Pradesh,Potato,828,-0.8,18.1
+2023,5,Uttar Pradesh,Potato,940,-1.8,55.6
+2023,6,Uttar Pradesh,Potato,982,0.5,173.5
+2023,7,Uttar Pradesh,Potato,1165,0.8,483.4
+2023,8,Uttar Pradesh,Potato,1189,0.5,434.3
+2023,9,Uttar Pradesh,Potato,1193,1.2,276.5
+2023,10,Uttar Pradesh,Potato,1045,0.8,54.7
+2023,11,Uttar Pradesh,Potato,923,0.6,6.7
+2023,12,Uttar Pradesh,Potato,810,0.7,11.6
+2023,1,Uttar Pradesh,Chillies,18800,0.2,20.6
+2023,2,Uttar Pradesh,Chillies,18613,1.8,14.9
+2023,3,Uttar Pradesh,Chillies,19150,0.1,33.6
+2023,4,Uttar Pradesh,Chillies,19150,-0.8,18.1
+2023,5,Uttar Pradesh,Chillies,19000,-1.8,55.6
+2023,6,Uttar Pradesh,Chillies,19800,0.5,173.5
+2023,7,Uttar Pradesh,Chillies,21000,0.8,483.4
+2023,8,Uttar Pradesh,Chillies,21000,0.5,434.3
+2023,9,Uttar Pradesh,Chillies,21000,1.2,276.5
+2023,10,Uttar Pradesh,Chillies,21750,0.8,54.7
+2023,11,Uttar Pradesh,Chillies,23000,0.6,6.7
+2023,12,Uttar Pradesh,Chillies,23000,0.7,11.6
+2023,1,Uttar Pradesh,Cotton,11250,0.2,20.6
+2023,2,Uttar Pradesh,Cotton,10250,1.8,14.9
+2023,3,Uttar Pradesh,Cotton,8700,0.1,33.6
+2023,4,Uttar Pradesh,Cotton,8200,-0.8,18.1
+2023,5,Uttar Pradesh,Cotton,8013,-1.8,55.6
+2023,6,Uttar Pradesh,Cotton,7100,0.5,173.5
+2023,7,Uttar Pradesh,Cotton,6550,0.8,483.4
+2023,8,Uttar Pradesh,Cotton,6913,0.5,434.3
+2023,9,Uttar Pradesh,Cotton,7525,1.2,276.5
+2023,10,Uttar Pradesh,Cotton,7713,0.8,54.7
+2023,11,Uttar Pradesh,Cotton,8488,0.6,6.7
+2023,12,Uttar Pradesh,Cotton,8960,0.7,11.6
+2023,1,Uttar Pradesh,Onion,1750,0.2,20.6
+2023,2,Uttar Pradesh,Onion,1703,1.8,14.9
+2023,3,Uttar Pradesh,Onion,1405,0.1,33.6
+2023,4,Uttar Pradesh,Onion,1340,-0.8,18.1
+2023,5,Uttar Pradesh,Onion,1175,-1.8,55.6
+2023,6,Uttar Pradesh,Onion,1152,0.5,173.5
+2023,7,Uttar Pradesh,Onion,1544,0.8,483.4
+2023,8,Uttar Pradesh,Onion,1750,0.5,434.3
+2023,9,Uttar Pradesh,Onion,2047,1.2,276.5
+2023,10,Uttar Pradesh,Onion,2263,0.8,54.7
+2023,11,Uttar Pradesh,Onion,3525,0.6,6.7
+2023,12,Uttar Pradesh,Onion,2930,0.7,11.6
+2023,1,Uttar Pradesh,Soyabean,6500,0.2,20.6
+2023,2,Uttar Pradesh,Soyabean,6238,1.8,14.9
+2023,3,Uttar Pradesh,Soyabean,5210,0.1,33.6
+2023,4,Uttar Pradesh,Soyabean,4733,-0.8,18.1
+2023,5,Uttar Pradesh,Soyabean,4644,-1.8,55.6
+2023,6,Uttar Pradesh,Soyabean,4651,0.5,173.5
+2023,7,Uttar Pradesh,Soyabean,4988,0.8,483.4
+2023,8,Uttar Pradesh,Soyabean,5144,0.5,434.3
+2023,9,Uttar Pradesh,Soyabean,5092,1.2,276.5
+2023,10,Uttar Pradesh,Soyabean,4871,0.8,54.7
+2023,11,Uttar Pradesh,Soyabean,4763,0.6,6.7
+2023,12,Uttar Pradesh,Soyabean,5190,0.7,11.6
+2023,1,West Bengal,Rice,3200,1,0.1
+2023,2,West Bengal,Rice,3200,1.1,1.7
+2023,3,West Bengal,Rice,3200,-0.3,71.4
+2023,4,West Bengal,Rice,3200,-0.3,47.3
+2023,5,West Bengal,Rice,3250,0.5,126.8
+2023,6,West Bengal,Rice,3260,1.5,367.6
+2023,7,West Bengal,Rice,3375,1,543.8
+2023,8,West Bengal,Rice,3500,1,592.3
+2023,9,West Bengal,Rice,3820,0.9,446.7
+2023,10,West Bengal,Rice,4000,0.6,196.1
+2023,11,West Bengal,Rice,4000,0.8,8.1
+2023,12,West Bengal,Rice,4000,0.8,44.6
+2023,1,West Bengal,Jower,3513,1,0.1
+2023,2,West Bengal,Jower,4075,1.1,1.7
+2023,3,West Bengal,Jower,4290,-0.3,71.4
+2023,4,West Bengal,Jower,4476,-0.3,47.3
+2023,5,West Bengal,Jower,3900,0.5,126.8
+2023,6,West Bengal,Jower,4080,1.5,367.6
+2023,7,West Bengal,Jower,4288,1,543.8
+2023,8,West Bengal,Jower,4500,1,592.3
+2023,9,West Bengal,Jower,4680,0.9,446.7
+2023,10,West Bengal,Jower,4650,0.6,196.1
+2023,11,West Bengal,Jower,4488,0.8,8.1
+2023,12,West Bengal,Jower,4320,0.8,44.6
+2023,1,West Bengal,Maize,3025,1,0.1
+2023,2,West Bengal,Maize,3125,1.1,1.7
+2023,3,West Bengal,Maize,3060,-0.3,71.4
+2023,4,West Bengal,Maize,2975,-0.3,47.3
+2023,5,West Bengal,Maize,2875,0.5,126.8
+2023,6,West Bengal,Maize,2860,1.5,367.6
+2023,7,West Bengal,Maize,3113,1,543.8
+2023,8,West Bengal,Maize,3375,1,592.3
+2023,9,West Bengal,Maize,3450,0.9,446.7
+2023,10,West Bengal,Maize,3250,0.6,196.1
+2023,11,West Bengal,Maize,3213,0.8,8.1
+2023,12,West Bengal,Maize,3040,0.8,44.6
+2023,1,West Bengal,Wheat,2650,1,0.1
+2023,2,West Bengal,Wheat,2673,1.1,1.7
+2023,3,West Bengal,Wheat,2680,-0.3,71.4
+2023,4,West Bengal,Wheat,2680,-0.3,47.3
+2023,5,West Bengal,Wheat,2680,0.5,126.8
+2023,6,West Bengal,Wheat,2680,1.5,367.6
+2023,7,West Bengal,Wheat,2680,1,543.8
+2023,8,West Bengal,Wheat,2615,1,592.3
+2023,9,West Bengal,Wheat,2470,0.9,446.7
+2023,10,West Bengal,Wheat,2450,0.6,196.1
+2023,11,West Bengal,Wheat,2488,0.8,8.1
+2023,12,West Bengal,Wheat,2500,0.8,44.6
+2023,1,West Bengal,Arhar(Tur Dal),7375,1,0.1
+2023,2,West Bengal,Arhar(Tur Dal),8200,1.1,1.7
+2023,3,West Bengal,Arhar(Tur Dal),9120,-0.3,71.4
+2023,4,West Bengal,Arhar(Tur Dal),9463,-0.3,47.3
+2023,5,West Bengal,Arhar(Tur Dal),9713,0.5,126.8
+2023,6,West Bengal,Arhar(Tur Dal),10170,1.5,367.6
+2023,7,West Bengal,Arhar(Tur Dal),9950,1,543.8
+2023,8,West Bengal,Arhar(Tur Dal),10088,1,592.3
+2023,9,West Bengal,Arhar(Tur Dal),10670,0.9,446.7
+2023,10,West Bengal,Arhar(Tur Dal),11225,0.6,196.1
+2023,11,West Bengal,Arhar(Tur Dal),11500,0.8,8.1
+2023,12,West Bengal,Arhar(Tur Dal),10240,0.8,44.6
+2023,1,West Bengal,Potato,873,1,0.1
+2023,2,West Bengal,Potato,765,1.1,1.7
+2023,3,West Bengal,Potato,1036,-0.3,71.4
+2023,4,West Bengal,Potato,1430,-0.3,47.3
+2023,5,West Bengal,Potato,1480,0.5,126.8
+2023,6,West Bengal,Potato,1520,1.5,367.6
+2023,7,West Bengal,Potato,1708,1,543.8
+2023,8,West Bengal,Potato,1640,1,592.3
+2023,9,West Bengal,Potato,1564,0.9,446.7
+2023,10,West Bengal,Potato,1595,0.6,196.1
+2023,11,West Bengal,Potato,1538,0.8,8.1
+2023,12,West Bengal,Potato,1600,0.8,44.6
+2023,1,West Bengal,Chillies,19650,1,0.1
+2023,2,West Bengal,Chillies,19125,1.1,1.7
+2023,3,West Bengal,Chillies,21400,-0.3,71.4
+2023,4,West Bengal,Chillies,22500,-0.3,47.3
+2023,5,West Bengal,Chillies,22500,0.5,126.8
+2023,6,West Bengal,Chillies,24400,1.5,367.6
+2023,7,West Bengal,Chillies,31250,1,543.8
+2023,8,West Bengal,Chillies,31125,1,592.3
+2023,9,West Bengal,Chillies,30700,0.9,446.7
+2023,10,West Bengal,Chillies,30250,0.6,196.1
+2023,11,West Bengal,Chillies,29500,0.8,8.1
+2023,12,West Bengal,Chillies,30700,0.8,44.6
+2023,1,West Bengal,Onion,1990,1,0.1
+2023,2,West Bengal,Onion,1235,1.1,1.7
+2023,3,West Bengal,Onion,1050,-0.3,71.4
+2023,4,West Bengal,Onion,914,-0.3,47.3
+2023,5,West Bengal,Onion,1344,0.5,126.8
+2023,6,West Bengal,Onion,1942,1.5,367.6
+2023,7,West Bengal,Onion,1981,1,543.8
+2023,8,West Bengal,Onion,2541,1,592.3
+2023,9,West Bengal,Onion,2713,0.9,446.7
+2023,10,West Bengal,Onion,3698,0.6,196.1
+2023,11,West Bengal,Onion,4050,0.8,8.1
+2023,12,West Bengal,Onion,3187,0.8,44.6
+2023,1,West Bengal,Tomato,1275,1,0.1
+2023,2,West Bengal,Tomato,1225,1.1,1.7
+2023,3,West Bengal,Tomato,2120,-0.3,71.4
+2023,4,West Bengal,Tomato,2250,-0.3,47.3
+2023,5,West Bengal,Tomato,2800,0.5,126.8
+2023,6,West Bengal,Tomato,4700,1.5,367.6
+2023,7,West Bengal,Tomato,11625,1,543.8
+2023,8,West Bengal,Tomato,9000,1,592.3
+2023,9,West Bengal,Tomato,3140,0.9,446.7
+2023,10,West Bengal,Tomato,2800,0.6,196.1
+2023,11,West Bengal,Tomato,4200,0.8,8.1
+2023,12,West Bengal,Tomato,3460,0.8,44.6
+2023,1,West Bengal,Coconut,30000,1,0.1
+2023,2,West Bengal,Coconut,27500,1.1,1.7
+2023,3,West Bengal,Coconut,25800,-0.3,71.4
+2023,4,West Bengal,Coconut,25000,-0.3,47.3
+2023,5,West Bengal,Coconut,25000,0.5,126.8
+2023,6,West Bengal,Coconut,24000,1.5,367.6
+2023,7,West Bengal,Coconut,22000,1,543.8
+2023,8,West Bengal,Coconut,22000,1,592.3
+2023,9,West Bengal,Coconut,22000,0.9,446.7
+2023,10,West Bengal,Coconut,24750,0.6,196.1
+2023,11,West Bengal,Coconut,25000,0.8,8.1
+2023,12,West Bengal,Coconut,25000,0.8,44.6
+2023,1,West Bengal,Turmeric,9000,1,0.1
+2023,2,West Bengal,Turmeric,9000,1.1,1.7
+2023,3,West Bengal,Turmeric,9100,-0.3,71.4
+2023,4,West Bengal,Turmeric,9000,-0.3,47.3
+2023,5,West Bengal,Turmeric,9438,0.5,126.8
+2023,6,West Bengal,Turmeric,9850,1.5,367.6
+2023,7,West Bengal,Turmeric,12563,1,543.8
+2023,8,West Bengal,Turmeric,17450,1,592.3
+2023,9,West Bengal,Turmeric,14750,0.9,446.7
+2023,10,West Bengal,Turmeric,14750,0.6,196.1
+2023,11,West Bengal,Turmeric,14450,0.8,8.1
+2023,12,West Bengal,Turmeric,14350,0.8,44.6

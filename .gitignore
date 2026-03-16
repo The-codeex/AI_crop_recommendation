@@ -16,10 +16,10 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-data/
 
-*.csv
 
-data/final_dataset.csv
-models/yield_model.pkl
-models/soil_model.pkl
+
+
+# data/final_dataset.csv
+# models/yield_model.pkl
+# models/soil_model.pkl
