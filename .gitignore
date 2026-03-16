@@ -18,7 +18,7 @@ Thumbs.db
 
 
 data/
-
+*.csv
 
 data/final_dataset.csv
 # models/yield_model.pkl
