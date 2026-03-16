@@ -17,10 +17,9 @@ __pycache__/
 Thumbs.db
 
 data/
-models/
+
 *.csv
 
 data/final_dataset.csv
 models/yield_model.pkl
 models/soil_model.pkl
-models/*.pkl
