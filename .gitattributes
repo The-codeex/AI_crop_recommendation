@@ -1,0 +1,2 @@
+models/soil_model.pkl filter=lfs diff=lfs merge=lfs -text
+models/yield_model.pkl filter=lfs diff=lfs merge=lfs -text
